@@ -1,0 +1,2 @@
+# 2022_Monkeypox_Outbreak_Ghana
+Supplemental Data for the Publication Co-circulation_of_Multiple_Clades_and_Lineages_during_the_2022_Monkeypox_Outbreak_from_Ghana
