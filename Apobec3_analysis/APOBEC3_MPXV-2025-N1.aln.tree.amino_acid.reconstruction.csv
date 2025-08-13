@@ -1,0 +1,1086 @@
+site,gene,direction,snp,dimer,apobec,aa_position,parent,parent_codon,parent_aa,child,child_codon,child_aa,mutation_category,score,prediction,homoplasy,occurrence
+7864,OPG019_CDS_174,forward,C->T,AC,False,3,Node1,GAC,D,Node2,GAT,D,synonymous,NA,NA,False,1
+8015,NA,NA,T->C,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+8143,NA,NA,A->G,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,True,2
+8143,NA,NA,G->T,,False,NA,Node5,NA,NA,Node6,NA,NA,intergenic,NA,NA,True,2
+8841,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+9054,NA,NA,T->C,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+11365,OPG023_CDS_171,reverse,A->G,,False,3,Node1,TGT,C,Node2,TGC,C,synonymous,NA,NA,False,1
+11745,OPG023_CDS_171,reverse,C->T,TC,True,1,Node1,GAT,D,Node2,AAT,N,nonsynonymous,23,conservative,False,1
+12947,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+18109,OPG031_CDS_165,reverse,C->T,AC,False,3,Node1,CTG,L,Node2,CTA,L,synonymous,NA,NA,False,1
+19324,NA,NA,T->A,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+22308,OPG037_CDS_161,reverse,G->A,GC,False,3,Node1,GGC,G,Node2,GGT,G,synonymous,NA,NA,False,1
+23190,NA,NA,C->T,TC,True,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+23747,OPG039_CDS_159,reverse,C->T,TC,True,3,Node1,GGG,G,Node2,GGA,G,synonymous,NA,NA,False,1
+23966,OPG039_CDS_159,reverse,G->A,GT,False,3,Node1,AAC,N,Node2,AAT,N,synonymous,NA,NA,False,1
+24977,OPG040_CDS_158,reverse,C->T,GC,False,1,Node1,GCA,A,Node2,ACA,T,nonsynonymous,58,moderately conservative,False,1
+25368,OPG040_CDS_158,reverse,C->A,,False,3,Node1,GAG,E,Node2,GAT,D,nonsynonymous,45,conservative,False,1
+29203,OPG045_CDS_154,reverse,C->A,,False,3,Node1,GAG,E,Node2,GAT,D,nonsynonymous,45,conservative,False,1
+30510,OPG047_CDS_152,reverse,C->T,TC,True,1,Node1,GAC,D,Node2,AAC,N,nonsynonymous,23,conservative,False,1
+30699,OPG047_CDS_152,reverse,G->T,,False,1,Node1,CTA,L,Node2,ATA,I,nonsynonymous,5,conservative,False,1
+31454,OPG048_CDS_151,reverse,C->A,,False,3,Node1,GTG,V,Node2,GTT,V,synonymous,NA,NA,False,1
+32326,OPG049_CDS_150,reverse,G->A,GT,False,1,Node1,CCC,P,Node2,TCC,S,nonsynonymous,74,moderately conservative,False,1
+35859,OPG054_CDS_145,reverse,C->T,AC,False,3,Node1,CCG,P,Node2,CCA,P,synonymous,NA,NA,False,1
+36732,OPG055_CDS_144,reverse,C->T,GC,False,1,Node1,GCT,A,Node2,ACT,T,nonsynonymous,58,moderately conservative,False,1
+42426,OPG063_CDS_136,reverse,A->G,,False,3,Node1,TGT,C,Node2,TGC,C,synonymous,NA,NA,False,1
+54013,OPG071_CDS_129,reverse,A->G,,False,3,Node1,TGT,C,Node2,TGC,C,synonymous,NA,NA,False,1
+55750,OPG074_CDS_126,reverse,G->A,GA,True,2,Node1,TCC,S,Node2,TTC,F,nonsynonymous,155,radical,False,1
+58482,OPG077_CDS_123,reverse,G->T,,False,3,Node1,GTC,V,Node2,GTA,V,synonymous,NA,NA,False,1
+70398,OPG089_CDS_111,forward,A->C,,False,2,Node1,GAG,E,Node2,GCG,A,nonsynonymous,107,moderately radical,False,1
+76393,OPG097_CDS_103,reverse,G->A,GG,False,3,Node1,TCC,S,Node2,TCT,S,synonymous,NA,NA,False,1
+77451,OPG098_CDS_102,forward,G->A,GT,False,3,Node1,GTG,V,Node2,GTA,V,synonymous,NA,NA,False,1
+79658,OPG102_CDS_98,forward,C->T,AC,False,1,Node1,CAC,H,Node2,TAC,Y,nonsynonymous,83,moderately conservative,False,1
+80435,OPG103_CDS_97,forward,G->T,,False,3,Node1,ACG,T,Node2,ACT,T,synonymous,NA,NA,False,1
+84373,OPG105_CDS_95,forward,G->A,GT,False,2,Node1,AGT,S,Node2,AAT,N,nonsynonymous,46,conservative,False,1
+85145,OPG106_CDS_94,reverse,C->T,CC,False,3,Node1,GGG,G,Node2,GGA,G,synonymous,NA,NA,False,1
+86916,OPG108_CDS_92,reverse,A->G,,False,3,Node1,GAT,D,Node2,GAC,D,synonymous,NA,NA,False,1
+87055,OPG108_CDS_92,reverse,G->A,GC,False,2,Node1,GCG,A,Node2,GTG,V,nonsynonymous,64,moderately conservative,True,2
+87055,OPG108_CDS_92,reverse,A->G,,False,2,Node12,GTG,V,KJ642616.1|France|1968,GCG,A,nonsynonymous,64,moderately conservative,True,2
+89607,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+89869,OPG110_CDS_90,forward,G->A,GT,False,1,Node1,GTT,V,Node2,ATT,I,nonsynonymous,29,conservative,False,1
+90034,OPG110_CDS_90,forward,G->A,GC,False,1,Node1,GCT,A,Node2,ACT,T,nonsynonymous,58,moderately conservative,False,1
+91737,OPG113_CDS_87,forward,G->A,GC,False,1,Node1,GCC,A,Node2,ACC,T,nonsynonymous,58,moderately conservative,False,1
+93422,OPG113_CDS_87,forward,G->A,GC,False,3,Node1,GGG,G,Node2,GGA,G,synonymous,NA,NA,False,1
+94404,OPG114_CDS_86,reverse,G->T,,False,3,Node1,CCC,P,Node2,CCA,P,synonymous,NA,NA,False,1
+97371,OPG117_CDS_83,forward,G->A,GA,True,3,Node1,TCG,S,Node2,TCA,S,synonymous,NA,NA,False,1
+99287,OPG118_CDS_82,forward,C->T,GC,False,2,Node1,GCA,A,Node2,GTA,V,nonsynonymous,64,moderately conservative,False,1
+99587,OPG118_CDS_82,forward,G->A,GC,False,2,Node1,GGC,G,Node2,GAC,D,nonsynonymous,94,moderately conservative,False,1
+100967,OPG120_CDS_80,reverse,G->A,GC,False,2,Node1,GCA,A,Node2,GTA,V,nonsynonymous,64,moderately conservative,False,1
+104985,OPG123_CDS_77,reverse,A->G,,False,2,Node1,GTA,V,Node2,GCA,A,nonsynonymous,64,moderately conservative,False,1
+106460,OPG125_CDS_75,reverse,G->T,,False,1,Node1,CTT,L,Node2,ATT,I,nonsynonymous,5,conservative,False,1
+107366,OPG125_CDS_75,reverse,G->T,,False,1,Node1,CAT,H,Node2,AAT,N,nonsynonymous,68,moderately conservative,False,1
+125514,OPG146_CDS_54,reverse,G->T,,False,3,Node1,TCC,S,Node2,TCA,S,synonymous,NA,NA,False,1
+130846,OPG151_CDS_49,forward,T->C,,False,3,Node1,TGT,C,Node2,TGC,C,synonymous,NA,NA,False,1
+131548,OPG151_CDS_49,forward,A->G,,False,3,Node1,AGA,R,Node2,AGG,R,synonymous,NA,NA,False,1
+136446,OPG153_CDS_48,reverse,G->A,GA,True,1,Node1,CAT,H,Node2,TAT,Y,nonsynonymous,83,moderately conservative,False,1
+136641,OPG153_CDS_48,reverse,T->C,,False,1,Node1,ACT,T,Node2,GCT,A,nonsynonymous,58,moderately conservative,False,1
+137515,OPG153_CDS_48,reverse,A->G,,False,3,Node1,ATT,I,Node2,ATC,I,synonymous,NA,NA,False,1
+140772,OPG160_CDS_41,reverse,G->A,GA,True,3,Node1,TTC,F,Node2,TTT,F,synonymous,NA,NA,False,1
+142337,OPG163_CDS_38,forward,G->A,GT,False,1,Node1,GTA,V,Node2,ATA,I,nonsynonymous,29,conservative,False,1
+147926,OPG172_CDS_32,forward,A->T,,False,2,Node1,GAC,D,Node2,GTC,V,nonsynonymous,152,radical,False,1
+148124,OPG173_CDS_31,forward,A->G,,False,1,Node1,ACA,T,Node2,GCA,A,nonsynonymous,58,moderately conservative,False,1
+148542,OPG174_CDS_30,reverse,C->T,GC,False,2,Node1,TGC,C,Node2,TAC,Y,nonsynonymous,194,radical,False,1
+153210,OPG180_CDS_26,forward,C->A,,False,3,Node1,GCC,A,Node2,GCA,A,synonymous,NA,NA,False,1
+153894,OPG180_CDS_26,forward,G->A,GC,False,3,Node1,AAG,K,Node2,AAA,K,synonymous,NA,NA,False,1
+156081,NA,NA,C->T,TC,True,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+156162,NA,NA,C->A,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+158981,OPG185_CDS_24,forward,C->T,AC,False,2,Node1,ACA,T,Node2,ATA,I,nonsynonymous,89,moderately conservative,False,1
+159964,NA,NA,G->T,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+160120,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+161760,OPG188_CDS_22,forward,G->A,GA,True,3,Node1,GTG,V,Node2,GTA,V,synonymous,NA,NA,False,1
+169574,NA,NA,A->G,,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+170283,OPG198_CDS_14,forward,G->A,GG,False,3,Node1,TTG,L,Node2,TTA,L,synonymous,NA,NA,False,1
+171068,OPG199_CDS_13,forward,G->A,GA,True,3,Node1,TTG,L,Node2,TTA,L,synonymous,NA,NA,False,1
+172524,OPG200_CDS_12,forward,T->C,,False,3,Node1,AGT,S,Node2,AGC,S,synonymous,NA,NA,False,1
+173544,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+173641,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+175396,OPG204_CDS_11,forward,G->A,GA,True,1,Node1,GAA,E,Node2,AAA,K,nonsynonymous,56,moderately conservative,False,1
+177073,OPG205_CDS_10,forward,A->G,,False,2,Node1,CAT,H,Node2,CGT,R,nonsynonymous,29,conservative,False,1
+178285,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node2,NA,NA,intergenic,NA,NA,False,1
+179423,OPG208_CDS_9,forward,C->T,AC,False,2,Node1,ACA,T,Node2,ATA,I,nonsynonymous,89,moderately conservative,False,1
+181076,OPG209_CDS_8,forward,G->A,GG,False,1,Node1,GGG,G,Node2,AGG,R,nonsynonymous,125,moderately radical,False,1
+182411,OPG210_CDS_7,forward,C->A,,False,3,Node1,GTC,V,Node2,GTA,V,synonymous,NA,NA,False,1
+182600,OPG210_CDS_7,forward,C->T,AC,False,3,Node1,GAC,D,Node2,GAT,D,synonymous,NA,NA,False,1
+183466,OPG210_CDS_7,forward,C->A,,False,2,Node1,TCT,S,Node2,TAT,Y,nonsynonymous,144,moderately radical,False,1
+189273,OPG005_CDS_6,forward,C->T,AC,False,3,Node1,GAC,D,Node2,GAT,D,synonymous,NA,NA,False,1
+707,NA,NA,G->A,GA,True,NA,Node2,NA,NA,Node3,NA,NA,intergenic,NA,NA,False,1
+2959,OPG003_CDS_176,reverse,C->T,AC,False,2,Node2,AGT,S,Node3,AAT,N,nonsynonymous,46,conservative,False,1
+3843,OPG003_CDS_176,reverse,G->A,GG,False,3,Node2,GCC,A,Node3,GCT,A,synonymous,NA,NA,False,1
+5441,OPG015_CDS_175,reverse,C->A,,False,2,Node2,TGG,W,Node3,TTG,L,nonsynonymous,61,moderately conservative,False,1
+7186,NA,NA,G->A,GT,False,NA,Node2,NA,NA,Node3,NA,NA,intergenic,NA,NA,False,1
+13709,OPG025_CDS_169,reverse,C->T,AC,False,2,Node2,TGT,C,Node3,TAT,Y,nonsynonymous,194,radical,False,1
+19165,NA,NA,T->A,,False,NA,Node2,NA,NA,Node3,NA,NA,intergenic,NA,NA,False,1
+38382,OPG056_CDS_143,reverse,T->A,,False,2,Node2,GAT,D,Node3,GTT,V,nonsynonymous,152,radical,False,1
+47813,NA,NA,G->T,,False,NA,Node2,NA,NA,Node3,NA,NA,intergenic,NA,NA,False,1
+85661,OPG107_CDS_93,forward,G->A,GT,False,3,Node2,ACG,T,Node3,ACA,T,synonymous,NA,NA,False,1
+85968,OPG107_CDS_93,forward,A->G,,False,1,Node2,AAA,K,Node3,GAA,E,nonsynonymous,56,moderately conservative,False,1
+88560,OPG109_CDS_91,reverse,A->T,,False,3,Node2,CCT,P,Node3,CCA,P,synonymous,NA,NA,False,1
+97911,OPG117_CDS_83,forward,T->C,,False,3,Node2,ATT,I,Node3,ATC,I,synonymous,NA,NA,False,1
+115877,OPG134_CDS_66,forward,C->T,GC,False,2,Node2,GCC,A,Node3,GTC,V,nonsynonymous,64,moderately conservative,False,1
+4087,OPG003_CDS_176,reverse,T->G,,False,2,Node3,GAG,E,Node4,GCG,A,nonsynonymous,107,moderately radical,False,1
+4864,OPG015_CDS_175,reverse,A->G,,False,3,Node3,ATT,I,Node4,ATC,I,synonymous,NA,NA,False,1
+7927,OPG019_CDS_174,forward,G->A,GT,False,3,Node3,ACG,T,Node4,ACA,T,synonymous,NA,NA,False,1
+10999,OPG023_CDS_171,reverse,G->A,GG,False,3,Node3,ACC,T,Node4,ACT,T,synonymous,NA,NA,False,1
+28393,OPG044_CDS_155,forward,C->T,CC,False,3,Node3,ACC,T,Node4,ACT,T,synonymous,NA,NA,False,1
+43244,OPG063_CDS_136,reverse,C->T,AC,False,1,Node3,GTA,V,Node4,ATA,I,nonsynonymous,29,conservative,False,1
+69852,OPG088_CDS_112,reverse,T->C,,False,3,Node3,GTA,V,Node4,GTG,V,synonymous,NA,NA,False,1
+133520,NA,NA,C->T,AC,False,NA,Node3,NA,NA,Node4,NA,NA,intergenic,NA,NA,False,1
+135371,NA,NA,G->A,GC,False,NA,Node3,NA,NA,Node4,NA,NA,intergenic,NA,NA,False,1
+154017,OPG180_CDS_26,forward,T->C,,False,3,Node3,GAT,D,Node4,GAC,D,synonymous,NA,NA,False,1
+190338,NA,NA,C->T,TC,True,NA,Node3,NA,NA,Node4,NA,NA,intergenic,NA,NA,False,1
+8774,NA,NA,G->A,GT,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+8794,NA,NA,A->G,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+9698,OPG021_CDS_173,forward,G->A,GT,False,1,Node4,GTT,V,Node5,ATT,I,nonsynonymous,29,conservative,False,1
+15082,OPG025_CDS_169,reverse,C->T,AC,False,3,Node4,TCG,S,Node5,TCA,S,synonymous,NA,NA,False,1
+20362,OPG035_CDS_163,reverse,C->T,CC,False,1,Node4,GGC,G,Node5,AGC,S,nonsynonymous,56,moderately conservative,False,1
+33964,OPG052_CDS_147,reverse,C->T,CC,False,2,Node4,CGG,R,Node5,CAG,Q,nonsynonymous,43,conservative,False,1
+38427,OPG056_CDS_143,reverse,C->T,GC,False,2,Node4,TGC,C,Node5,TAC,Y,nonsynonymous,194,radical,True,2
+38427,OPG056_CDS_143,reverse,C->T,GC,False,2,Node12,TGC,C,KJ642614.1|Netherlands|1965,TAC,Y,nonsynonymous,194,radical,True,2
+45637,OPG064_CDS_135,reverse,C->T,GC,False,1,Node4,GCA,A,Node5,ACA,T,nonsynonymous,58,moderately conservative,False,1
+50494,NA,NA,C->A,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+50572,NA,NA,C->T,GC,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+55215,OPG074_CDS_126,reverse,C->A,,False,3,Node4,GTG,V,Node5,GTT,V,synonymous,NA,NA,False,1
+72890,OPG092_CDS_108,reverse,G->T,,False,1,Node4,CAA,Q,Node5,AAA,K,nonsynonymous,53,moderately conservative,False,1
+81454,OPG105_CDS_95,forward,A->C,,False,2,Node4,GAG,E,Node5,GCG,A,nonsynonymous,107,moderately radical,False,1
+93357,OPG113_CDS_87,forward,G->A,GC,False,1,Node4,GCC,A,Node5,ACC,T,nonsynonymous,58,moderately conservative,False,1
+121527,OPG140_CDS_60,reverse,G->T,,False,1,Node4,CAC,H,Node5,AAC,N,nonsynonymous,68,moderately conservative,False,1
+125116,OPG145_CDS_55,forward,G->A,GA,True,3,Node4,CCG,P,Node5,CCA,P,synonymous,NA,NA,False,1
+128093,OPG150_CDS_50,forward,C->T,GC,False,3,Node4,AGC,S,Node5,AGT,S,synonymous,NA,NA,False,1
+132868,NA,NA,T->C,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+133163,NA,NA,G->A,GC,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+133255,NA,NA,G->A,GA,True,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+136570,OPG153_CDS_48,reverse,T->A,,False,3,Node4,GAA,E,Node5,GAT,D,nonsynonymous,45,conservative,True,2
+136570,OPG153_CDS_48,reverse,T->A,,False,3,Node3,GAA,E,Node10,GAT,D,nonsynonymous,45,conservative,True,2
+142508,OPG163_CDS_38,forward,A->G,,False,1,Node4,ATA,I,Node5,GTA,V,nonsynonymous,29,conservative,False,1
+150444,OPG176_CDS_28,forward,C->A,,False,3,Node4,ACC,T,Node5,ACA,T,synonymous,NA,NA,True,2
+150444,OPG176_CDS_28,forward,C->T,CC,False,3,Node1,ACC,T,Node18,ACT,T,synonymous,NA,NA,True,2
+151505,NA,NA,G->T,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+154806,OPG181_CDS_25,forward,C->T,GC,False,2,Node4,GCG,A,Node5,GTG,V,nonsynonymous,64,moderately conservative,False,1
+156450,NA,NA,T->A,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+156637,NA,NA,G->T,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+160271,NA,NA,C->G,,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+188457,NA,NA,C->T,CC,False,NA,Node4,NA,NA,Node5,NA,NA,intergenic,NA,NA,False,1
+189549,OPG005_CDS_6,forward,T->C,,False,3,Node4,ACT,T,Node5,ACC,T,synonymous,NA,NA,False,1
+156023,NA,NA,G->A,GT,False,NA,Node5,NA,NA,Node6,NA,NA,intergenic,NA,NA,False,1
+2840,NA,NA,A->C,,False,NA,Node6,NA,NA,Node7,NA,NA,intergenic,NA,NA,True,2
+2840,NA,NA,A->C,,False,NA,Node77,NA,NA,PP853026.1|Nigeria|2022,NA,NA,intergenic,NA,NA,True,2
+10039,OPG021_CDS_173,forward,G->A,GT,False,3,Node6,GAG,E,Node7,GAA,E,synonymous,NA,NA,False,1
+12561,OPG023_CDS_171,reverse,C->T,AC,False,1,Node6,GTA,V,Node7,ATA,I,nonsynonymous,29,conservative,False,1
+46380,OPG065_CDS_134,reverse,G->A,GC,False,2,Node6,GCT,A,Node7,GTT,V,nonsynonymous,64,moderately conservative,False,1
+69837,OPG088_CDS_112,reverse,A->G,,False,3,Node6,GGT,G,Node7,GGC,G,synonymous,NA,NA,False,1
+89937,OPG110_CDS_90,forward,C->A,,False,3,Node6,GGC,G,Node7,GGA,G,synonymous,NA,NA,False,1
+101011,OPG120_CDS_80,reverse,C->A,,False,3,Node6,GTG,V,Node7,GTT,V,synonymous,NA,NA,False,1
+116643,OPG135_CDS_65,reverse,A->G,,False,2,Node6,GTG,V,Node7,GCG,A,nonsynonymous,64,moderately conservative,False,1
+140316,OPG160_CDS_41,reverse,G->A,GT,False,3,Node6,GAC,D,Node7,GAT,D,synonymous,NA,NA,False,1
+159500,OPG185_CDS_24,forward,C->A,,False,2,Node6,GCA,A,Node7,GAA,E,nonsynonymous,107,moderately radical,False,1
+172828,NA,NA,T->A,,False,NA,Node6,NA,NA,Node7,NA,NA,intergenic,NA,NA,False,1
+187503,NA,NA,G->T,,False,NA,Node6,NA,NA,Node7,NA,NA,intergenic,NA,NA,False,1
+188419,NA,NA,G->T,,False,NA,Node6,NA,NA,Node7,NA,NA,intergenic,NA,NA,False,1
+21441,OPG037_CDS_161,reverse,G->A,GT,False,3,Node7,TAC,Y,Node8,TAT,Y,synonymous,NA,NA,False,1
+27251,OPG043_CDS_156,reverse,A->G,,False,3,Node7,CAT,H,Node8,CAC,H,synonymous,NA,NA,False,1
+186017,OPG210_CDS_7,forward,C->T,AC,False,3,Node7,GAC,D,Node8,GAT,D,synonymous,NA,NA,False,1
+44980,OPG064_CDS_135,reverse,C->T,TC,True,1,Node8,GAT,D,Node9,AAT,N,nonsynonymous,23,conservative,False,1
+131652,OPG151_CDS_49,forward,C->T,AC,False,2,Node8,ACA,T,Node9,ATA,I,nonsynonymous,89,moderately conservative,False,1
+133173,NA,NA,A->T,,False,NA,Node8,NA,NA,Node9,NA,NA,intergenic,NA,NA,True,2
+133173,NA,NA,A->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,True,2
+133204,NA,NA,T->A,,False,NA,Node8,NA,NA,Node9,NA,NA,intergenic,NA,NA,False,1
+133749,NA,NA,T->C,,False,NA,Node8,NA,NA,Node9,NA,NA,intergenic,NA,NA,False,1
+153524,OPG180_CDS_26,forward,C->A,,False,2,Node8,ACG,T,Node9,AAG,K,nonsynonymous,78,moderately conservative,False,1
+156651,NA,NA,G->T,,False,NA,Node8,NA,NA,Node9,NA,NA,intergenic,NA,NA,False,1
+57148,NA,NA,G->A,GT,False,NA,Node8,NA,NA,MN346702.1|Ivory_Coast|2018,NA,NA,intergenic,NA,NA,False,1
+137932,OPG154_CDS_47,reverse,C->T,TC,True,2,Node8,GGA,G,MN346702.1|Ivory_Coast|2018,GAA,E,nonsynonymous,98,moderately conservative,False,1
+152375,NA,NA,C->A,,False,NA,Node8,NA,NA,MN346702.1|Ivory_Coast|2018,NA,NA,intergenic,NA,NA,False,1
+155747,NA,NA,G->T,,False,NA,Node8,NA,NA,MN346702.1|Ivory_Coast|2018,NA,NA,intergenic,NA,NA,False,1
+158403,NA,NA,G->A,GA,True,NA,Node8,NA,NA,MN346702.1|Ivory_Coast|2018,NA,NA,intergenic,NA,NA,True,2
+158403,NA,NA,G->A,GA,True,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,True,2
+177534,OPG205_CDS_10,forward,G->T,,False,1,Node8,GAC,D,MN346702.1|Ivory_Coast|2018,TAC,Y,nonsynonymous,160,radical,False,1
+4538,OPG003_CDS_176,reverse,C->T,TC,True,1,Node7,GAC,D,KJ136820.1|Ivory_Coast|2012,AAC,N,nonsynonymous,23,conservative,False,1
+16298,OPG027_CDS_168,reverse,T->C,,False,2,Node7,AAC,N,KJ136820.1|Ivory_Coast|2012,AGC,S,nonsynonymous,46,conservative,False,1
+35634,OPG054_CDS_145,reverse,G->A,GG,False,3,Node7,CCC,P,KJ136820.1|Ivory_Coast|2012,CCT,P,synonymous,NA,NA,False,1
+167909,OPG193_CDS_17,forward,A->C,,False,3,Node7,ACA,T,KJ136820.1|Ivory_Coast|2012,ACC,T,synonymous,NA,NA,False,1
+39509,OPG057_CDS_142,reverse,C->T,CC,False,3,Node6,TCG,S,DQ011156.1|Liberia|1970,TCA,S,synonymous,NA,NA,False,1
+42709,OPG063_CDS_136,reverse,G->T,,False,2,Node6,ACG,T,DQ011156.1|Liberia|1970,AAG,K,nonsynonymous,78,moderately conservative,False,1
+52231,OPG071_CDS_129,reverse,C->T,AC,False,3,Node5,TCG,S,KP849470.1|Ivory_Coast|1971,TCA,S,synonymous,NA,NA,False,1
+65466,OPG084_CDS_116,forward,C->T,AC,False,1,Node5,CTA,L,KP849470.1|Ivory_Coast|1971,TTA,L,synonymous,NA,NA,False,1
+72702,OPG092_CDS_108,reverse,T->C,,False,3,Node5,TCA,S,KP849470.1|Ivory_Coast|1971,TCG,S,synonymous,NA,NA,False,1
+72750,OPG092_CDS_108,reverse,C->T,CC,False,3,Node5,ATG,M,KP849470.1|Ivory_Coast|1971,ATA,I,nonsynonymous,10,conservative,False,1
+86790,OPG108_CDS_92,reverse,A->G,,False,3,Node5,TGT,C,KP849470.1|Ivory_Coast|1971,TGC,C,synonymous,NA,NA,False,1
+105195,OPG124_CDS_76,reverse,G->A,GT,False,3,Node5,TAC,Y,KP849470.1|Ivory_Coast|1971,TAT,Y,synonymous,NA,NA,False,1
+111561,OPG130_CDS_70,reverse,A->G,,False,3,Node5,TCT,S,KP849470.1|Ivory_Coast|1971,TCC,S,synonymous,NA,NA,False,1
+116852,OPG135_CDS_65,reverse,G->A,GG,False,3,Node5,GCC,A,KP849470.1|Ivory_Coast|1971,GCT,A,synonymous,NA,NA,False,1
+121165,OPG139_CDS_61,reverse,A->C,,False,3,Node5,TCT,S,KP849470.1|Ivory_Coast|1971,TCG,S,synonymous,NA,NA,False,1
+134625,NA,NA,T->G,,False,NA,Node5,NA,NA,KP849470.1|Ivory_Coast|1971,NA,NA,intergenic,NA,NA,False,1
+141287,OPG161_CDS_40,forward,C->T,GC,False,3,Node5,TGC,C,KP849470.1|Ivory_Coast|1971,TGT,C,synonymous,NA,NA,False,1
+151475,NA,NA,C->A,,False,NA,Node5,NA,NA,KP849470.1|Ivory_Coast|1971,NA,NA,intergenic,NA,NA,False,1
+162897,OPG188_CDS_22,forward,C->T,GC,False,3,Node5,TGC,C,KP849470.1|Ivory_Coast|1971,TGT,C,synonymous,NA,NA,False,1
+163407,OPG189_CDS_21,forward,T->C,,False,3,Node5,TCT,S,KP849470.1|Ivory_Coast|1971,TCC,S,synonymous,NA,NA,False,1
+167177,OPG192_CDS_18,forward,C->T,AC,False,3,Node5,AAC,N,KP849470.1|Ivory_Coast|1971,AAT,N,synonymous,NA,NA,False,1
+171862,OPG199_CDS_13,forward,A->C,,False,2,Node5,GAG,E,KP849470.1|Ivory_Coast|1971,GCG,A,nonsynonymous,107,moderately radical,False,1
+2387,OPG002_CDS_177,reverse,G->A,GA,True,2,Node4,TCA,S,AY741551.1|Sierra_Leone|1970,TTA,L,nonsynonymous,145,moderately radical,False,1
+3432,OPG003_CDS_176,reverse,G->A,GA,True,3,Node4,GTC,V,AY741551.1|Sierra_Leone|1970,GTT,V,synonymous,NA,NA,False,1
+5777,OPG015_CDS_175,reverse,G->T,,False,2,Node4,GCA,A,AY741551.1|Sierra_Leone|1970,GAA,E,nonsynonymous,107,moderately radical,False,1
+18480,OPG031_CDS_165,reverse,C->T,TC,True,1,Node4,GAT,D,AY741551.1|Sierra_Leone|1970,AAT,N,nonsynonymous,23,conservative,True,2
+18480,OPG031_CDS_165,reverse,C->T,TC,True,1,Node86,GAT,D,Node92,AAT,N,nonsynonymous,23,conservative,True,2
+21930,OPG037_CDS_161,reverse,A->G,,False,3,Node4,TTT,F,AY741551.1|Sierra_Leone|1970,TTC,F,synonymous,NA,NA,False,1
+28278,OPG044_CDS_155,forward,C->T,GC,False,2,Node4,GCC,A,AY741551.1|Sierra_Leone|1970,GTC,V,nonsynonymous,64,moderately conservative,True,3
+28278,OPG044_CDS_155,forward,C->T,GC,False,2,Node2,GCC,A,Node13,GTC,V,nonsynonymous,64,moderately conservative,True,3
+28278,OPG044_CDS_155,forward,C->T,GC,False,2,Node1,GCC,A,Node18,GTC,V,nonsynonymous,64,moderately conservative,True,3
+28324,OPG044_CDS_155,forward,G->A,GG,False,3,Node4,GAG,E,AY741551.1|Sierra_Leone|1970,GAA,E,synonymous,NA,NA,False,1
+29640,OPG046_CDS_153,reverse,C->T,GC,False,3,Node4,TCG,S,AY741551.1|Sierra_Leone|1970,TCA,S,synonymous,NA,NA,False,1
+79597,OPG102_CDS_98,forward,G->A,GT,False,3,Node4,GCG,A,AY741551.1|Sierra_Leone|1970,GCA,A,synonymous,NA,NA,False,1
+79729,OPG102_CDS_98,forward,C->A,,False,3,Node4,ACC,T,AY741551.1|Sierra_Leone|1970,ACA,T,synonymous,NA,NA,False,1
+84125,OPG105_CDS_95,forward,G->A,GG,False,3,Node4,TTG,L,AY741551.1|Sierra_Leone|1970,TTA,L,synonymous,NA,NA,False,1
+84980,OPG105_CDS_95,forward,C->T,AC,False,3,Node4,GAC,D,AY741551.1|Sierra_Leone|1970,GAT,D,synonymous,NA,NA,False,1
+89970,OPG110_CDS_90,forward,C->T,TC,True,3,Node4,CTC,L,AY741551.1|Sierra_Leone|1970,CTT,L,synonymous,NA,NA,False,1
+94626,OPG114_CDS_86,reverse,G->A,GA,True,3,Node4,CTC,L,AY741551.1|Sierra_Leone|1970,CTT,L,synonymous,NA,NA,False,1
+94743,OPG115_CDS_85,forward,C->T,AC,False,3,Node4,CAC,H,AY741551.1|Sierra_Leone|1970,CAT,H,synonymous,NA,NA,False,1
+95525,OPG116_CDS_84,forward,G->A,GC,False,3,Node4,CAG,Q,AY741551.1|Sierra_Leone|1970,CAA,Q,synonymous,NA,NA,False,1
+110255,OPG129_CDS_71,reverse,C->T,AC,False,3,Node4,GCG,A,AY741551.1|Sierra_Leone|1970,GCA,A,synonymous,NA,NA,False,1
+118298,OPG136_CDS_64,reverse,G->T,,False,3,Node4,CCC,P,AY741551.1|Sierra_Leone|1970,CCA,P,synonymous,NA,NA,False,1
+123888,OPG144_CDS_56,reverse,C->A,,False,3,Node4,GCG,A,AY741551.1|Sierra_Leone|1970,GCT,A,synonymous,NA,NA,False,1
+133545,NA,NA,G->A,GT,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+134297,NA,NA,G->T,,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+134622,NA,NA,C->T,TC,True,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+134915,NA,NA,G->A,GT,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+152605,NA,NA,A->T,,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+154167,OPG180_CDS_26,forward,C->A,,False,3,Node4,CCC,P,AY741551.1|Sierra_Leone|1970,CCA,P,synonymous,NA,NA,False,1
+154410,NA,NA,C->T,GC,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+161917,OPG188_CDS_22,forward,C->T,TC,True,1,Node4,CTA,L,AY741551.1|Sierra_Leone|1970,TTA,L,synonymous,NA,NA,False,1
+165759,OPG190_CDS_20,forward,G->A,GT,False,2,Node4,AGT,S,AY741551.1|Sierra_Leone|1970,AAT,N,nonsynonymous,46,conservative,False,1
+172195,OPG200_CDS_12,forward,G->A,GG,False,1,Node4,GGA,G,AY741551.1|Sierra_Leone|1970,AGA,R,nonsynonymous,125,moderately radical,False,1
+175461,OPG204_CDS_11,forward,C->A,,False,3,Node4,GGC,G,AY741551.1|Sierra_Leone|1970,GGA,G,synonymous,NA,NA,False,1
+180374,NA,NA,G->A,GT,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+185597,OPG210_CDS_7,forward,A->G,,False,3,Node4,CCA,P,AY741551.1|Sierra_Leone|1970,CCG,P,synonymous,NA,NA,False,1
+188478,NA,NA,C->T,GC,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+188879,NA,NA,C->T,AC,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+189894,NA,NA,A->G,,False,NA,Node4,NA,NA,AY741551.1|Sierra_Leone|1970,NA,NA,intergenic,NA,NA,False,1
+3051,OPG003_CDS_176,reverse,G->A,GT,False,3,Node3,TAC,Y,Node10,TAT,Y,synonymous,NA,NA,False,1
+5809,OPG015_CDS_175,reverse,C->T,GC,False,3,Node3,GTG,V,Node10,GTA,V,synonymous,NA,NA,False,1
+19281,NA,NA,C->T,GC,False,NA,Node3,NA,NA,Node10,NA,NA,intergenic,NA,NA,False,1
+19891,OPG034_CDS_164,reverse,G->A,GA,True,1,Node3,CGT,R,Node10,TGT,C,nonsynonymous,180,radical,False,1
+20697,OPG036_CDS_162,reverse,T->C,,False,2,Node3,GAC,D,Node10,GGC,G,nonsynonymous,94,moderately conservative,False,1
+24732,OPG040_CDS_158,reverse,T->C,,False,3,Node3,ACA,T,Node10,ACG,T,synonymous,NA,NA,False,1
+36310,OPG055_CDS_144,reverse,G->T,,False,3,Node3,TCC,S,Node10,TCA,S,synonymous,NA,NA,False,1
+38583,OPG056_CDS_143,reverse,T->C,,False,2,Node3,AAC,N,Node10,AGC,S,nonsynonymous,46,conservative,False,1
+48389,OPG068_CDS_132,forward,T->G,,False,3,Node3,GTT,V,Node10,GTG,V,synonymous,NA,NA,False,1
+62580,OPG082_CDS_118,reverse,T->A,,False,3,Node3,ATA,I,Node10,ATT,I,synonymous,NA,NA,False,1
+71655,OPG091_CDS_109,forward,C->G,,False,1,Node3,CTA,L,Node10,GTA,V,nonsynonymous,32,conservative,False,1
+79980,OPG102_CDS_98,forward,C->T,AC,False,2,Node3,ACA,T,Node10,ATA,I,nonsynonymous,89,moderately conservative,False,1
+80764,OPG104_CDS_96,reverse,T->G,,False,1,Node3,AAT,N,Node10,CAT,H,nonsynonymous,68,moderately conservative,False,1
+87501,OPG109_CDS_91,reverse,C->T,AC,False,3,Node3,ACG,T,Node10,ACA,T,synonymous,NA,NA,True,2
+87501,OPG109_CDS_91,reverse,C->T,AC,False,3,Node1,ACG,T,Node18,ACA,T,synonymous,NA,NA,True,2
+93701,OPG113_CDS_87,forward,C->T,CC,False,3,Node3,TCC,S,Node10,TCT,S,synonymous,NA,NA,False,1
+95738,OPG116_CDS_84,forward,A->G,,False,3,Node3,AAA,K,Node10,AAG,K,synonymous,NA,NA,False,1
+125798,OPG147_CDS_53,reverse,C->T,AC,False,1,Node3,GTG,V,Node10,ATG,M,nonsynonymous,21,conservative,False,1
+145219,OPG167_CDS_35,reverse,C->A,,False,3,Node3,ACG,T,Node10,ACT,T,synonymous,NA,NA,False,1
+156894,NA,NA,A->C,,False,NA,Node3,NA,NA,Node10,NA,NA,intergenic,NA,NA,False,1
+164460,OPG189_CDS_21,forward,A->T,,False,3,Node3,GGA,G,Node10,GGT,G,synonymous,NA,NA,False,1
+164835,OPG189_CDS_21,forward,C->T,AC,False,3,Node3,GAC,D,Node10,GAT,D,synonymous,NA,NA,False,1
+178332,NA,NA,G->T,,False,NA,Node3,NA,NA,Node10,NA,NA,intergenic,NA,NA,False,1
+180075,OPG208_CDS_9,forward,T->A,,False,3,Node3,AAT,N,Node10,AAA,K,nonsynonymous,94,moderately conservative,False,1
+180218,OPG208_CDS_9,forward,T->C,,False,2,Node3,TTC,F,Node10,TCC,S,nonsynonymous,155,radical,False,1
+183473,OPG210_CDS_7,forward,A->G,,False,3,Node3,CCA,P,Node10,CCG,P,synonymous,NA,NA,False,1
+7611,OPG019_CDS_174,forward,C->A,,False,2,Node10,GCT,A,Node11,GAT,D,nonsynonymous,126,moderately radical,False,1
+65892,OPG084_CDS_116,forward,C->T,TC,True,1,Node10,CCT,P,Node11,TCT,S,nonsynonymous,74,moderately conservative,False,1
+116640,OPG135_CDS_65,reverse,G->A,GA,True,2,Node10,TCG,S,Node11,TTG,L,nonsynonymous,145,moderately radical,False,1
+32868,OPG049_CDS_150,reverse,G->A,GA,True,2,Node11,TCA,S,AY753185.1|Copenhagen|1958,TTA,L,nonsynonymous,145,moderately radical,False,1
+50614,OPG070_CDS_130,forward,G->A,GA,True,1,Node11,GAC,D,AY753185.1|Copenhagen|1958,AAC,N,nonsynonymous,23,conservative,False,1
+137466,OPG153_CDS_48,reverse,C->T,TC,True,1,Node11,GAG,E,AY753185.1|Copenhagen|1958,AAG,K,nonsynonymous,56,moderately conservative,False,1
+170999,OPG199_CDS_13,forward,C->T,TC,True,3,Node11,TTC,F,AY753185.1|Copenhagen|1958,TTT,F,synonymous,NA,NA,False,1
+775,NA,NA,G->A,GG,False,NA,Node11,NA,NA,AY603973.1|Walter|Reed|1961,NA,NA,intergenic,NA,NA,False,1
+90845,OPG111_CDS_89,forward,G->A,GT,False,2,Node11,AGT,S,AY603973.1|Walter|Reed|1961,AAT,N,nonsynonymous,46,conservative,False,1
+92261,OPG113_CDS_87,forward,G->A,GC,False,3,Node11,TTG,L,AY603973.1|Walter|Reed|1961,TTA,L,synonymous,NA,NA,False,1
+124807,OPG145_CDS_55,forward,A->G,,False,3,Node11,CCA,P,AY603973.1|Walter|Reed|1961,CCG,P,synonymous,NA,NA,False,1
+29763,OPG047_CDS_152,reverse,C->T,C,False,1,Node10,G,,Node12,A,,synonymous,NA,NA,False,1
+580,NA,NA,T->G,,False,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,True,2
+580,NA,NA,T->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,True,2
+19608,OPG034_CDS_164,reverse,T->C,,False,2,Node12,TAC,Y,KJ642616.1|France|1968,TGC,C,nonsynonymous,194,radical,False,1
+23228,NA,NA,T->A,,False,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+24498,OPG040_CDS_158,reverse,T->A,,False,3,Node12,CAA,Q,KJ642616.1|France|1968,CAT,H,nonsynonymous,24,conservative,False,1
+27605,OPG043_CDS_156,reverse,G->A,GC,False,3,Node12,TGC,C,KJ642616.1|France|1968,TGT,C,synonymous,NA,NA,False,1
+37493,OPG056_CDS_143,reverse,C->T,AC,False,3,Node12,ACG,T,KJ642616.1|France|1968,ACA,T,synonymous,NA,NA,False,1
+56538,OPG074_CDS_126,reverse,T->G,,False,3,Node12,AAA,K,KJ642616.1|France|1968,AAC,N,nonsynonymous,94,moderately conservative,False,1
+102787,OPG122_CDS_78,forward,C->T,AC,False,3,Node12,AAC,N,KJ642616.1|France|1968,AAT,N,synonymous,NA,NA,False,1
+112599,OPG132_CDS_68,reverse,C->A,,False,3,Node12,TCG,S,KJ642616.1|France|1968,TCT,S,synonymous,NA,NA,False,1
+119877,OPG137_CDS_63,forward,G->A,GC,False,3,Node12,ACG,T,KJ642616.1|France|1968,ACA,T,synonymous,NA,NA,False,1
+121660,OPG140_CDS_60,reverse,G->T,,False,3,Node12,GCC,A,KJ642616.1|France|1968,GCA,A,synonymous,NA,NA,False,1
+125897,OPG147_CDS_53,reverse,C->T,GC,False,1,Node12,GCC,A,KJ642616.1|France|1968,ACC,T,nonsynonymous,58,moderately conservative,False,1
+133059,NA,NA,G->A,GC,False,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+133454,NA,NA,G->A,GA,True,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+156438,NA,NA,C->A,,False,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+157609,NA,NA,A->C,,False,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+158379,NA,NA,C->T,TC,True,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+163255,NA,NA,G->A,GC,False,NA,Node12,NA,NA,KJ642616.1|France|1968,NA,NA,intergenic,NA,NA,False,1
+168753,OPG195_CDS_16,forward,G->T,,False,2,Node12,TGG,W,KJ642616.1|France|1968,TTG,L,nonsynonymous,61,moderately conservative,False,1
+14890,OPG025_CDS_169,reverse,C->A,,False,3,Node12,TTG,L,KJ642614.1|Netherlands|1965,TTT,F,nonsynonymous,22,conservative,False,1
+18919,NA,NA,G->A,GC,False,NA,Node12,NA,NA,KJ642614.1|Netherlands|1965,NA,NA,intergenic,NA,NA,False,1
+25633,NA,NA,C->T,TC,True,NA,Node12,NA,NA,KJ642614.1|Netherlands|1965,NA,NA,intergenic,NA,NA,False,1
+34376,OPG053_CDS_146,reverse,C->T,TC,True,3,Node12,AAG,K,KJ642614.1|Netherlands|1965,AAA,K,synonymous,NA,NA,False,1
+36179,OPG055_CDS_144,reverse,G->A,GT,False,2,Node12,ACA,T,KJ642614.1|Netherlands|1965,ATA,I,nonsynonymous,89,moderately conservative,False,1
+39899,OPG057_CDS_142,reverse,C->T,CC,False,3,Node12,CCG,P,KJ642614.1|Netherlands|1965,CCA,P,synonymous,NA,NA,False,1
+46475,OPG065_CDS_134,reverse,C->T,GC,False,3,Node12,AAG,K,KJ642614.1|Netherlands|1965,AAA,K,synonymous,NA,NA,False,1
+75211,OPG095_CDS_105,forward,T->C,,False,1,Node12,TAC,Y,KJ642614.1|Netherlands|1965,CAC,H,nonsynonymous,83,moderately conservative,False,1
+95121,OPG115_CDS_85,forward,T->C,,False,3,Node12,AAT,N,KJ642614.1|Netherlands|1965,AAC,N,synonymous,NA,NA,False,1
+108252,OPG127_CDS_73,reverse,C->T,GC,False,1,Node12,GCA,A,KJ642614.1|Netherlands|1965,ACA,T,nonsynonymous,58,moderately conservative,False,1
+112896,OPG132_CDS_68,reverse,G->A,GA,True,3,Node12,ATC,I,KJ642614.1|Netherlands|1965,ATT,I,synonymous,NA,NA,False,1
+156410,NA,NA,A->G,,False,NA,Node12,NA,NA,KJ642614.1|Netherlands|1965,NA,NA,intergenic,NA,NA,False,1
+167489,OPG193_CDS_17,forward,G->A,GT,False,3,Node12,ACG,T,KJ642614.1|Netherlands|1965,ACA,T,synonymous,NA,NA,False,1
+171971,OPG199_CDS_13,forward,C->T,TC,True,3,Node12,GTC,V,KJ642614.1|Netherlands|1965,GTT,V,synonymous,NA,NA,False,1
+179014,NA,NA,C->T,CC,False,NA,Node12,NA,NA,KJ642614.1|Netherlands|1965,NA,NA,intergenic,NA,NA,False,1
+179329,OPG208_CDS_9,forward,T->G,,False,1,Node12,TCC,S,KJ642614.1|Netherlands|1965,GCC,A,nonsynonymous,99,moderately conservative,False,1
+179335,OPG208_CDS_9,forward,T->G,,False,1,Node12,TTA,L,KJ642614.1|Netherlands|1965,GTA,V,nonsynonymous,32,conservative,False,1
+3299,OPG003_CDS_176,reverse,C->A,,False,1,Node2,GAC,D,Node13,TAC,Y,nonsynonymous,160,radical,False,1
+7610,OPG019_CDS_174,forward,G->A,GC,False,1,Node2,GCT,A,Node13,ACT,T,nonsynonymous,58,moderately conservative,False,1
+10992,OPG023_CDS_171,reverse,T->C,,False,1,Node2,AAA,K,Node13,GAA,E,nonsynonymous,56,moderately conservative,False,1
+11237,OPG023_CDS_171,reverse,C->A,,False,2,Node2,CGC,R,Node13,CTC,L,nonsynonymous,102,moderately radical,False,1
+12496,OPG023_CDS_171,reverse,G->T,,False,3,Node2,AAC,N,Node13,AAA,K,nonsynonymous,94,moderately conservative,False,1
+13465,OPG025_CDS_169,reverse,G->C,,False,3,Node2,AAC,N,Node13,AAG,K,nonsynonymous,94,moderately conservative,False,1
+16524,NA,NA,T->C,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+20501,NA,NA,G->T,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+22164,OPG037_CDS_161,reverse,G->A,GT,False,3,Node2,CAC,H,Node13,CAT,H,synonymous,NA,NA,False,1
+22169,OPG037_CDS_161,reverse,C->T,AC,False,1,Node2,GTG,V,Node13,ATG,M,nonsynonymous,21,conservative,False,1
+23203,NA,NA,A->G,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+23289,OPG039_CDS_159,reverse,A->T,,False,2,Node2,GTC,V,Node13,GAC,D,nonsynonymous,152,radical,False,1
+32972,OPG049_CDS_150,reverse,A->C,,False,3,Node2,ACT,T,Node13,ACG,T,synonymous,NA,NA,False,1
+33806,OPG052_CDS_147,reverse,T->C,,False,1,Node2,AAA,K,Node13,GAA,E,nonsynonymous,56,moderately conservative,False,1
+40684,NA,NA,G->T,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+45966,NA,NA,T->A,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+47499,NA,NA,T->A,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+50255,OPG069_CDS_131,forward,C->T,AC,False,3,Node2,CAC,H,Node13,CAT,H,synonymous,NA,NA,False,1
+55330,OPG074_CDS_126,reverse,G->T,,False,2,Node2,ACT,T,Node13,AAT,N,nonsynonymous,65,moderately conservative,False,1
+64427,OPG083_CDS_117,reverse,G->A,GT,False,2,Node2,ACG,T,Node13,ATG,M,nonsynonymous,81,moderately conservative,False,1
+66773,OPG085_CDS_115,reverse,C->T,AC,False,1,Node2,GTG,V,Node13,ATG,M,nonsynonymous,21,conservative,False,1
+71925,OPG092_CDS_108,reverse,G->A,GT,False,3,Node2,AAC,N,Node13,AAT,N,synonymous,NA,NA,False,1
+77775,OPG099_CDS_101,forward,C->A,,False,3,Node2,TTC,F,Node13,TTA,L,nonsynonymous,22,conservative,False,1
+78461,OPG100_CDS_100,forward,A->C,,False,1,Node2,AAA,K,Node13,CAA,Q,nonsynonymous,53,moderately conservative,False,1
+80583,NA,NA,A->C,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+83661,OPG105_CDS_95,forward,G->A,GT,False,1,Node2,GTC,V,Node13,ATC,I,nonsynonymous,29,conservative,False,1
+84278,OPG105_CDS_95,forward,A->G,,False,3,Node2,GTA,V,Node13,GTG,V,synonymous,NA,NA,False,1
+88566,OPG109_CDS_91,reverse,G->T,,False,3,Node2,GAC,D,Node13,GAA,E,nonsynonymous,45,conservative,False,1
+92630,OPG113_CDS_87,forward,C->A,,False,3,Node2,GTC,V,Node13,GTA,V,synonymous,NA,NA,False,1
+103421,OPG123_CDS_77,reverse,G->A,GT,False,3,Node2,GAC,D,Node13,GAT,D,synonymous,NA,NA,False,1
+108250,OPG127_CDS_73,reverse,T->C,,False,3,Node2,GCA,A,Node13,GCG,A,synonymous,NA,NA,False,1
+113843,OPG133_CDS_67,reverse,C->T,CC,False,3,Node2,GCG,A,Node13,GCA,A,synonymous,NA,NA,False,1
+125262,OPG145_CDS_55,forward,T->C,,False,2,Node2,ATG,M,Node13,ACG,T,nonsynonymous,81,moderately conservative,False,1
+133442,NA,NA,A->G,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+134489,NA,NA,C->T,AC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+135792,NA,NA,C->T,AC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+138298,OPG155_CDS_46,reverse,G->A,GT,False,2,Node2,ACA,T,Node13,ATA,I,nonsynonymous,89,moderately conservative,False,1
+141294,OPG161_CDS_40,forward,G->A,GC,False,1,Node2,GCT,A,Node13,ACT,T,nonsynonymous,58,moderately conservative,False,1
+144604,OPG167_CDS_35,reverse,G->A,GC,False,3,Node2,TGC,C,Node13,TGT,C,synonymous,NA,NA,False,1
+147634,OPG172_CDS_32,forward,T->G,,False,1,Node2,TCC,S,Node13,GCC,A,nonsynonymous,99,moderately conservative,False,1
+156215,NA,NA,T->C,,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+159963,NA,NA,G->A,GT,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+160171,NA,NA,C->T,GC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+162663,OPG188_CDS_22,forward,T->G,,False,3,Node2,AAT,N,Node13,AAG,K,nonsynonymous,94,moderately conservative,False,1
+162722,OPG188_CDS_22,forward,A->G,,False,2,Node2,CAG,Q,Node13,CGG,R,nonsynonymous,43,conservative,False,1
+163020,OPG188_CDS_22,forward,G->T,,False,3,Node2,GCG,A,Node13,GCT,A,synonymous,NA,NA,False,1
+163836,OPG189_CDS_21,forward,C->T,CC,False,3,Node2,GCC,A,Node13,GCT,A,synonymous,NA,NA,False,1
+165637,OPG190_CDS_20,forward,G->T,,False,3,Node2,ACG,T,Node13,ACT,T,synonymous,NA,NA,False,1
+168345,OPG195_CDS_16,forward,T->A,,False,2,Node2,ATT,I,Node13,AAT,N,nonsynonymous,149,moderately radical,False,1
+168945,NA,NA,C->T,AC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+170754,OPG198_CDS_14,forward,T->C,,False,3,Node2,ACT,T,Node13,ACC,T,synonymous,NA,NA,False,1
+172736,NA,NA,G->A,GT,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+174990,OPG204_CDS_11,forward,C->T,GC,False,3,Node2,TGC,C,Node13,TGT,C,synonymous,NA,NA,False,1
+175537,OPG204_CDS_11,forward,C->T,AC,False,1,Node2,CAC,H,Node13,TAC,Y,nonsynonymous,83,moderately conservative,False,1
+178666,NA,NA,C->T,AC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+180258,OPG208_CDS_9,forward,C->T,AC,False,3,Node2,TAC,Y,Node13,TAT,Y,synonymous,NA,NA,False,1
+181298,NA,NA,C->T,GC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+183552,OPG210_CDS_7,forward,T->A,,False,1,Node2,TTA,L,Node13,ATA,I,nonsynonymous,5,conservative,False,1
+187489,NA,NA,C->T,AC,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+187888,NA,NA,G->A,GT,False,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+188575,NA,NA,C->T,TC,True,NA,Node2,NA,NA,Node13,NA,NA,intergenic,NA,NA,False,1
+189627,OPG005_CDS_6,forward,C->A,,False,3,Node2,ACC,T,Node13,ACA,T,synonymous,NA,NA,False,1
+334,NA,NA,C->T,GC,False,NA,Node13,NA,NA,Node14,NA,NA,intergenic,NA,NA,False,1
+37110,NA,NA,T->C,,False,NA,Node13,NA,NA,Node14,NA,NA,intergenic,NA,NA,False,1
+107921,OPG126_CDS_74,reverse,C->T,CC,False,3,Node13,AAG,K,Node14,AAA,K,synonymous,NA,NA,False,1
+132531,NA,NA,G->A,GG,False,NA,Node13,NA,NA,Node14,NA,NA,intergenic,NA,NA,False,1
+136794,OPG153_CDS_48,reverse,C->T,GC,False,1,Node13,GCA,A,Node14,ACA,T,nonsynonymous,58,moderately conservative,False,1
+141072,OPG160_CDS_41,reverse,C->T,GC,False,3,Node13,ATG,M,Node14,ATA,I,nonsynonymous,10,conservative,False,1
+155105,OPG181_CDS_25,forward,G->A,GC,False,1,Node13,GCA,A,Node14,ACA,T,nonsynonymous,58,moderately conservative,False,1
+155392,OPG181_CDS_25,forward,C->T,AC,False,3,Node13,TAC,Y,Node14,TAT,Y,synonymous,NA,NA,False,1
+161470,OPG187_CDS_23,forward,G->A,GG,False,3,Node13,GAG,E,Node14,GAA,E,synonymous,NA,NA,False,1
+173569,NA,NA,C->T,CC,False,NA,Node13,NA,NA,Node14,NA,NA,intergenic,NA,NA,False,1
+137626,OPG153_CDS_48,reverse,C->T,CC,False,3,Node14,ACG,T,Node15,ACA,T,synonymous,NA,NA,False,1
+49,NA,NA,C->T,CC,False,NA,Node15,NA,NA,DQ011153.1|USA|2003,NA,NA,intergenic,NA,NA,False,1
+14543,OPG025_CDS_169,reverse,C->T,GC,False,2,Node13,AGC,S,22-010|Ghana|2022,AAC,N,nonsynonymous,46,conservative,False,1
+56032,OPG074_CDS_126,reverse,C->T,GC,False,2,Node13,AGC,S,22-010|Ghana|2022,AAC,N,nonsynonymous,46,conservative,False,1
+69832,OPG088_CDS_112,reverse,G->T,,False,2,Node13,CCG,P,22-010|Ghana|2022,CAG,Q,nonsynonymous,76,moderately conservative,False,1
+72597,OPG092_CDS_108,reverse,G->T,,False,3,Node13,GCC,A,22-010|Ghana|2022,GCA,A,synonymous,NA,NA,False,1
+73768,NA,NA,A->G,,False,NA,Node13,NA,NA,22-010|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+84817,OPG105_CDS_95,forward,C->A,,False,2,Node13,CCT,P,22-010|Ghana|2022,CAT,H,nonsynonymous,77,moderately conservative,False,1
+107109,OPG125_CDS_75,reverse,C->T,TC,True,3,Node13,GTG,V,22-010|Ghana|2022,GTA,V,synonymous,NA,NA,False,1
+130660,OPG151_CDS_49,forward,C->T,GC,False,3,Node13,CGC,R,22-010|Ghana|2022,CGT,R,synonymous,NA,NA,False,1
+145660,NA,NA,C->T,GC,False,NA,Node13,NA,NA,22-010|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+151596,OPG178_CDS_27,forward,G->A,GC,False,1,Node13,GCA,A,22-010|Ghana|2022,ACA,T,nonsynonymous,58,moderately conservative,False,1
+162394,OPG188_CDS_22,forward,A->G,,False,1,Node13,ATG,M,22-010|Ghana|2022,GTG,V,nonsynonymous,21,conservative,False,1
+178333,NA,NA,C->T,GC,False,NA,Node13,NA,NA,22-010|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+181745,OPG210_CDS_7,forward,C->A,,False,3,Node13,AGC,S,22-010|Ghana|2022,AGA,R,nonsynonymous,110,moderately radical,False,1
+182364,OPG210_CDS_7,forward,C->T,AC,False,1,Node13,CTA,L,22-010|Ghana|2022,TTA,L,synonymous,NA,NA,False,1
+128,NA,NA,C->T,CC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+1687,NA,NA,G->A,GG,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+1813,OPG002_CDS_177,reverse,C->A,,False,3,Node1,ACG,T,Node18,AAT,N,nonsynonymous,65,moderately conservative,False,1
+1814,OPG002_CDS_177,reverse,G->T,,False,2,Node1,ACG,T,Node18,AAT,N,nonsynonymous,65,moderately conservative,False,1
+3099,OPG003_CDS_176,reverse,G->T,,False,3,Node1,ACC,T,Node18,ACA,T,synonymous,NA,NA,False,1
+3420,OPG003_CDS_176,reverse,G->A,GA,True,3,Node1,ATC,I,Node18,ATT,I,synonymous,NA,NA,False,1
+3450,OPG003_CDS_176,reverse,G->A,GA,True,3,Node1,ATC,I,Node18,ATT,I,synonymous,NA,NA,False,1
+7950,OPG019_CDS_174,forward,G->T,,False,2,Node1,AGG,R,Node18,ATG,M,nonsynonymous,91,moderately conservative,False,1
+8286,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+8422,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+8893,NA,NA,C->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+10267,OPG021_CDS_173,forward,C->A,,False,3,Node1,ACC,T,Node18,ACA,T,synonymous,NA,NA,False,1
+10275,OPG021_CDS_173,forward,G->A,GA,True,2,Node1,AGA,R,Node18,AAA,K,nonsynonymous,26,conservative,False,1
+10641,OPG022_CDS_172,reverse,T->C,,False,2,Node1,GAT,D,Node18,GGT,G,nonsynonymous,94,moderately conservative,True,2
+10641,OPG022_CDS_172,reverse,C->T,AC,False,2,Node29,GGT,G,OP536760.1|UK|2022,GAT,D,nonsynonymous,94,moderately conservative,True,2
+11439,OPG023_CDS_171,reverse,C->T,GC,False,1,Node1,GCC,A,Node18,ACC,T,nonsynonymous,58,moderately conservative,False,1
+11593,OPG023_CDS_171,reverse,G->A,GC,False,3,Node1,TGC,C,Node18,TGT,C,synonymous,NA,NA,False,1
+11624,OPG023_CDS_171,reverse,G->A,GC,False,2,Node1,GCT,A,Node18,GTT,V,nonsynonymous,64,moderately conservative,False,1
+12712,OPG023_CDS_171,reverse,G->A,GT,False,3,Node1,CAC,H,Node18,CAT,H,synonymous,NA,NA,False,1
+12733,OPG023_CDS_171,reverse,G->A,GT,False,3,Node1,GAC,D,Node18,GAT,D,synonymous,NA,NA,False,1
+16788,OPG029_CDS_167,reverse,G->T,,False,3,Node1,ACC,T,Node18,ACA,T,synonymous,NA,NA,False,1
+18017,OPG031_CDS_165,reverse,T->A,,False,2,Node1,AAG,K,Node18,ATG,M,nonsynonymous,95,moderately conservative,False,1
+18312,OPG031_CDS_165,reverse,G->A,GA,True,1,Node1,CTA,L,Node18,TTA,L,synonymous,NA,NA,False,1
+18861,NA,NA,A->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+19055,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+19304,NA,NA,T->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+19367,OPG034_CDS_164,reverse,C->T,TC,True,3,Node1,TCG,S,Node18,TCA,S,synonymous,NA,NA,False,1
+20990,OPG036_CDS_162,reverse,T->A,,False,3,Node1,GAA,E,Node18,GAT,D,nonsynonymous,45,conservative,False,1
+22575,OPG038_CDS_160,reverse,G->T,,False,3,Node1,GGC,G,Node18,GGA,G,synonymous,NA,NA,False,1
+24222,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+24358,OPG040_CDS_158,reverse,G->T,,False,2,Node1,TCT,S,Node18,TAT,Y,nonsynonymous,144,moderately radical,False,1
+24719,OPG040_CDS_158,reverse,C->G,,False,1,Node1,GCT,A,Node18,CCT,P,nonsynonymous,27,conservative,False,1
+25173,OPG040_CDS_158,reverse,G->T,,False,3,Node1,ACC,T,Node18,ACA,T,synonymous,NA,NA,False,1
+25212,OPG040_CDS_158,reverse,T->G,,False,3,Node1,TCA,S,Node18,TCC,S,synonymous,NA,NA,False,1
+25407,OPG040_CDS_158,reverse,G->A,GG,False,3,Node1,GCC,A,Node18,GCT,A,synonymous,NA,NA,False,1
+25769,NA,NA,T->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+27215,OPG043_CDS_156,reverse,A->G,,False,3,Node1,GGT,G,Node18,GGC,G,synonymous,NA,NA,False,1
+28090,NA,NA,C->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+29446,OPG046_CDS_153,reverse,T->C,,False,2,Node1,AAC,N,Node18,AGC,S,nonsynonymous,46,conservative,False,1
+29655,OPG046_CDS_153,reverse,C->T,GC,False,3,Node1,TCG,S,Node18,TCA,S,synonymous,NA,NA,False,1
+30500,OPG047_CDS_152,reverse,T->A,,False,2,Node1,AAA,K,Node18,ATA,I,nonsynonymous,102,moderately radical,False,1
+31039,OPG047_CDS_152,reverse,A->G,,False,3,Node1,CGT,R,Node18,CGC,R,synonymous,NA,NA,False,1
+31793,OPG048_CDS_151,reverse,A->G,,False,3,Node1,TAT,Y,Node18,TAC,Y,synonymous,NA,NA,False,1
+32364,OPG049_CDS_150,reverse,A->G,,False,2,Node1,ATG,M,Node18,ACG,T,nonsynonymous,81,moderately conservative,False,1
+32477,OPG049_CDS_150,reverse,C->A,,False,3,Node1,ACG,T,Node18,ACT,T,synonymous,NA,NA,False,1
+33043,OPG049_CDS_150,reverse,C->T,AC,False,1,Node1,GTG,V,Node18,ATG,M,nonsynonymous,21,conservative,False,1
+33143,OPG049_CDS_150,reverse,C->T,TC,True,3,Node1,ACG,T,Node18,ACA,T,synonymous,NA,NA,False,1
+33963,OPG052_CDS_147,reverse,C->T,GC,False,3,Node1,CGG,R,Node18,CGA,R,synonymous,NA,NA,False,1
+34005,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+34295,OPG053_CDS_146,reverse,G->A,GC,False,3,Node1,GGC,G,Node18,GGT,G,synonymous,NA,NA,False,1
+34685,OPG054_CDS_145,reverse,C->T,CC,False,1,Node1,GGA,G,Node18,AGA,R,nonsynonymous,125,moderately radical,False,1
+34685,OPG053_CDS_146,reverse,C->T,CC,False,3,Node1,GCG,A,Node18,GCA,A,synonymous,NA,NA,False,1
+38067,OPG056_CDS_143,reverse,G->A,GC,False,2,Node1,GCG,A,Node18,GTG,V,nonsynonymous,64,moderately conservative,False,1
+46895,OPG066_CDS_133,reverse,G->A,GT,False,3,Node1,GAC,D,Node18,GAT,D,synonymous,NA,NA,False,1
+48138,NA,NA,A->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+48148,NA,NA,A->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+48527,OPG068_CDS_132,forward,C->A,,False,3,Node1,ACC,T,Node18,ACA,T,synonymous,NA,NA,False,1
+51168,OPG070_CDS_130,forward,C->T,CC,False,3,Node1,ACC,T,Node18,ACT,T,synonymous,NA,NA,False,1
+53207,OPG071_CDS_129,reverse,C->A,,False,2,Node1,TGG,W,Node18,TTG,L,nonsynonymous,61,moderately conservative,False,1
+55805,OPG074_CDS_126,reverse,C->T,AC,False,1,Node1,GTC,V,Node18,ATC,I,nonsynonymous,29,conservative,False,1
+58467,OPG077_CDS_123,reverse,C->T,GC,False,3,Node1,CCG,P,Node18,CCA,P,synonymous,NA,NA,False,1
+59256,OPG079_CDS_121,reverse,C->T,GC,False,3,Node1,ACG,T,Node18,ACA,T,synonymous,NA,NA,False,1
+66580,OPG084_CDS_116,forward,G->A,GA,True,2,Node1,CGA,R,Node18,CAA,Q,nonsynonymous,43,conservative,False,1
+67827,OPG085_CDS_115,reverse,C->T,AC,False,3,Node1,TTG,L,Node18,TTA,L,synonymous,NA,NA,False,1
+73821,OPG094_CDS_106,forward,G->A,GC,False,3,Node1,CCG,P,Node18,CCA,P,synonymous,NA,NA,False,1
+74303,OPG094_CDS_106,forward,C->G,,False,2,Node1,ACA,T,Node18,AGA,R,nonsynonymous,71,moderately conservative,False,1
+74382,OPG094_CDS_106,forward,C->T,GC,False,3,Node1,AGC,S,Node18,AGT,S,synonymous,NA,NA,False,1
+78728,OPG101_CDS_99,forward,C->A,,False,3,Node1,ATC,I,Node18,ATA,I,synonymous,NA,NA,False,1
+80756,OPG104_CDS_96,reverse,A->G,,False,3,Node1,GTT,V,Node18,GTC,V,synonymous,NA,NA,False,1
+80986,OPG104_CDS_96,reverse,C->T,GC,False,1,Node1,GCT,A,Node18,ACT,T,nonsynonymous,58,moderately conservative,False,1
+81063,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+81182,OPG105_CDS_95,forward,T->C,,False,3,Node1,GCT,A,Node18,GCC,A,synonymous,NA,NA,False,1
+81463,OPG105_CDS_95,forward,G->T,,False,2,Node1,GGA,G,Node18,GTA,V,nonsynonymous,109,moderately radical,False,1
+82838,OPG105_CDS_95,forward,T->A,,False,3,Node1,ATT,I,Node18,ATA,I,synonymous,NA,NA,False,1
+84333,OPG105_CDS_95,forward,G->A,GT,False,1,Node1,GTC,V,Node18,ATC,I,nonsynonymous,29,conservative,False,1
+85163,OPG106_CDS_94,reverse,C->T,CC,False,3,Node1,GCG,A,Node18,GCA,A,synonymous,NA,NA,False,1
+86225,OPG108_CDS_92,reverse,G->A,GT,False,1,Node1,CTG,L,Node18,TTG,L,synonymous,NA,NA,False,1
+86535,OPG108_CDS_92,reverse,G->A,GA,True,3,Node1,TTC,F,Node18,TTT,F,synonymous,NA,NA,False,1
+87049,OPG108_CDS_92,reverse,G->A,GC,False,2,Node1,GCG,A,Node18,GTG,V,nonsynonymous,64,moderately conservative,False,1
+87735,OPG109_CDS_91,reverse,G->A,GA,True,3,Node1,ATC,I,Node18,ATT,I,synonymous,NA,NA,False,1
+89214,OPG109_CDS_91,reverse,C->T,AC,False,3,Node1,TCG,S,Node18,TCA,S,synonymous,NA,NA,False,1
+89579,NA,NA,G->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+91023,OPG111_CDS_89,forward,G->A,GT,False,3,Node1,GCG,A,Node18,GCA,A,synonymous,NA,NA,False,1
+92009,OPG113_CDS_87,forward,A->G,,False,3,Node1,GTA,V,Node18,GTG,V,synonymous,NA,NA,False,1
+92102,OPG113_CDS_87,forward,G->A,GA,True,3,Node1,TCG,S,Node18,TCA,S,synonymous,NA,NA,False,1
+92237,OPG113_CDS_87,forward,T->C,,False,3,Node1,GGT,G,Node18,GGC,G,synonymous,NA,NA,False,1
+92516,OPG113_CDS_87,forward,T->C,,False,3,Node1,GAT,D,Node18,GAC,D,synonymous,NA,NA,False,1
+95477,OPG116_CDS_84,forward,A->C,,False,3,Node1,CGA,R,Node18,CGC,R,synonymous,NA,NA,False,1
+95795,OPG116_CDS_84,forward,G->A,GC,False,3,Node1,CTG,L,Node18,CTA,L,synonymous,NA,NA,False,1
+98430,NA,NA,G->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+99212,OPG118_CDS_82,forward,G->A,GA,True,2,Node1,AGA,R,Node18,AAA,K,nonsynonymous,26,conservative,False,1
+99683,OPG118_CDS_82,forward,G->A,GT,False,2,Node1,AGT,S,Node18,AAT,N,nonsynonymous,46,conservative,False,1
+99830,OPG118_CDS_82,forward,C->T,GC,False,2,Node1,GCC,A,Node18,GTC,V,nonsynonymous,64,moderately conservative,False,1
+100562,OPG119_CDS_81,forward,C->T,GC,False,3,Node1,GGC,G,Node18,GGT,G,synonymous,NA,NA,False,1
+105126,OPG124_CDS_76,reverse,T->C,,False,3,Node1,AGA,R,Node18,AGG,R,synonymous,NA,NA,False,1
+106115,OPG125_CDS_75,reverse,C->T,AC,False,1,Node1,GTC,V,Node18,ATC,I,nonsynonymous,29,conservative,False,1
+107232,OPG125_CDS_75,reverse,A->G,,False,3,Node1,GGT,G,Node18,GGC,G,synonymous,NA,NA,False,1
+107394,OPG125_CDS_75,reverse,T->C,,False,3,Node1,GTA,V,Node18,GTG,V,synonymous,NA,NA,False,1
+109382,OPG129_CDS_71,reverse,G->A,GG,False,3,Node1,CCC,P,Node18,CCT,P,synonymous,NA,NA,False,1
+109580,OPG129_CDS_71,reverse,A->G,,False,3,Node1,GGT,G,Node18,GGC,G,synonymous,NA,NA,False,1
+111716,OPG130_CDS_70,reverse,C->T,GC,False,1,Node1,GCC,A,Node18,ACC,T,nonsynonymous,58,moderately conservative,False,1
+120252,OPG137_CDS_63,forward,T->C,,False,3,Node1,GTT,V,Node18,GTC,V,synonymous,NA,NA,False,1
+120965,OPG138_CDS_62,reverse,G->A,GC,False,3,Node1,GGC,G,Node18,GGT,G,synonymous,NA,NA,False,1
+124737,OPG145_CDS_55,forward,C->T,AC,False,2,Node1,ACA,T,Node18,ATA,I,nonsynonymous,89,moderately conservative,False,1
+124988,OPG145_CDS_55,forward,C->G,,False,1,Node1,CCA,P,Node18,GCA,A,nonsynonymous,27,conservative,False,1
+126255,OPG148_CDS_52,forward,G->A,GA,True,3,Node1,TCG,S,Node18,TCA,S,synonymous,NA,NA,False,1
+128076,OPG150_CDS_50,forward,G->A,GA,True,1,Node1,GAT,D,Node18,AAT,N,nonsynonymous,23,conservative,False,1
+132719,NA,NA,C->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+133145,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+133201,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+133539,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+133682,NA,NA,A->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+133733,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+133966,NA,NA,C->T,TC,True,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+134884,NA,NA,G->A,GA,True,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+135706,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+136498,OPG153_CDS_48,reverse,G->A,GG,False,3,Node1,CCC,P,Node18,CCT,P,synonymous,NA,NA,False,1
+136604,OPG153_CDS_48,reverse,G->A,GT,False,2,Node1,ACA,T,Node18,ATA,I,nonsynonymous,89,moderately conservative,False,1
+136687,OPG153_CDS_48,reverse,G->A,GT,False,3,Node1,CAC,H,Node18,CAT,H,synonymous,NA,NA,False,1
+136870,OPG153_CDS_48,reverse,G->A,GA,True,3,Node1,TTC,F,Node18,TTT,F,synonymous,NA,NA,False,1
+137627,OPG153_CDS_48,reverse,G->A,GT,False,2,Node1,ACG,T,Node18,ATG,M,nonsynonymous,81,moderately conservative,False,1
+141300,OPG161_CDS_40,forward,G->A,GA,True,1,Node1,GAG,E,Node18,AAG,K,nonsynonymous,56,moderately conservative,False,1
+141364,OPG161_CDS_40,forward,C->T,GC,False,2,Node1,GCG,A,Node18,GTG,V,nonsynonymous,64,moderately conservative,False,1
+142450,OPG163_CDS_38,forward,C->A,,False,3,Node1,ACC,T,Node18,ACA,T,synonymous,NA,NA,False,1
+143426,OPG164_CDS_37,forward,C->T,AC,False,1,Node1,CAC,H,Node18,TAC,Y,nonsynonymous,83,moderately conservative,False,1
+145803,NA,NA,C->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+146687,OPG170_CDS_34,reverse,T->C,,False,2,Node1,GAC,D,Node18,GGC,G,nonsynonymous,94,moderately conservative,False,1
+147860,OPG172_CDS_32,forward,C->T,AC,False,2,Node1,ACG,T,Node18,ATG,M,nonsynonymous,81,moderately conservative,False,1
+148126,OPG173_CDS_31,forward,A->G,,False,3,Node1,ACA,T,Node18,ACG,T,synonymous,NA,NA,False,1
+149765,OPG175_CDS_29,forward,T->G,,False,3,Node1,TCT,S,Node18,TCG,S,synonymous,NA,NA,False,1
+149878,OPG176_CDS_28,forward,A->G,,False,1,Node1,AAT,N,Node18,GAT,D,nonsynonymous,23,conservative,False,1
+150756,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+154405,NA,NA,G->A,GG,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+156426,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+156448,NA,NA,A->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+156512,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+156954,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+156978,NA,NA,C->T,TC,True,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+157273,NA,NA,T->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+157280,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+157437,NA,NA,G->A,GA,True,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+157490,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+158175,NA,NA,C->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+158398,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+158511,NA,NA,G->A,GG,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+158668,NA,NA,G->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+159415,OPG185_CDS_24,forward,G->A,GC,False,1,Node1,GCG,A,Node18,ACG,T,nonsynonymous,58,moderately conservative,False,1
+159447,OPG185_CDS_24,forward,A->C,,False,3,Node1,GAA,E,Node18,GAC,D,nonsynonymous,45,conservative,False,1
+160152,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+160867,OPG187_CDS_23,forward,G->A,GT,False,3,Node1,ACG,T,Node18,ACA,T,synonymous,NA,NA,False,1
+161574,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+161799,OPG188_CDS_22,forward,G->A,GT,False,3,Node1,GAG,E,Node18,GAA,E,synonymous,NA,NA,False,1
+162291,OPG188_CDS_22,forward,G->A,GG,False,3,Node1,GTG,V,Node18,GTA,V,synonymous,NA,NA,False,1
+162828,OPG188_CDS_22,forward,C->T,AC,False,3,Node1,CAC,H,Node18,CAT,H,synonymous,NA,NA,False,1
+163467,OPG189_CDS_21,forward,C->T,AC,False,3,Node1,TAC,Y,Node18,TAT,Y,synonymous,NA,NA,False,1
+164848,OPG189_CDS_21,forward,C->T,TC,True,1,Node1,CGT,R,Node18,TGT,C,nonsynonymous,180,radical,False,1
+165304,OPG190_CDS_20,forward,C->T,GC,False,3,Node1,TGC,C,Node18,TGT,C,synonymous,NA,NA,False,1
+166399,OPG191_CDS_19,forward,G->T,,False,2,Node1,TGC,C,Node18,TTC,F,nonsynonymous,205,radical,False,1
+167126,OPG192_CDS_18,forward,T->C,,False,3,Node1,ACT,T,Node18,ACC,T,synonymous,NA,NA,False,1
+167656,OPG193_CDS_17,forward,G->T,,False,2,Node1,AGA,R,Node18,ATA,I,nonsynonymous,97,moderately conservative,False,1
+167858,OPG193_CDS_17,forward,C->T,GC,False,3,Node1,AGC,S,Node18,AGT,S,synonymous,NA,NA,False,1
+168277,OPG195_CDS_16,forward,C->A,,False,3,Node1,TCC,S,Node18,TCA,S,synonymous,NA,NA,False,1
+168588,OPG195_CDS_16,forward,C->G,,False,2,Node1,TCT,S,Node18,TGT,C,nonsynonymous,112,moderately radical,False,1
+169603,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+170248,OPG198_CDS_14,forward,G->A,GA,True,1,Node1,GAC,D,Node18,AAC,N,nonsynonymous,23,conservative,False,1
+170435,OPG198_CDS_14,forward,G->A,GA,True,2,Node1,CGA,R,Node18,CAA,Q,nonsynonymous,43,conservative,False,1
+171675,OPG199_CDS_13,forward,G->A,GA,True,1,Node1,GAA,E,Node18,AAA,K,nonsynonymous,56,moderately conservative,False,1
+172188,OPG200_CDS_12,forward,G->A,GC,False,3,Node1,CAG,Q,Node18,CAA,Q,synonymous,NA,NA,False,1
+172980,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+173150,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+173441,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+173809,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+173810,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+173882,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+174170,NA,NA,C->T,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+175065,OPG204_CDS_11,forward,A->C,,False,3,Node1,AAA,K,Node18,AAC,N,nonsynonymous,94,moderately conservative,False,1
+176160,OPG205_CDS_10,forward,C->T,GC,False,1,Node1,CGG,R,Node18,TGG,W,nonsynonymous,101,moderately radical,False,1
+177167,OPG205_CDS_10,forward,G->T,,False,3,Node1,CTG,L,Node18,CTT,L,synonymous,NA,NA,False,1
+178275,NA,NA,C->T,AC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+178395,NA,NA,G->A,GT,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+178423,NA,NA,G->A,GA,True,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+178540,NA,NA,G->A,GG,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+178887,NA,NA,A->G,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+181350,NA,NA,G->A,GC,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+181994,OPG210_CDS_7,forward,G->A,GC,False,3,Node1,TTG,L,Node18,TTA,L,synonymous,NA,NA,False,1
+182443,OPG210_CDS_7,forward,G->A,GC,False,2,Node1,CGC,R,Node18,CAC,H,nonsynonymous,29,conservative,False,1
+182491,OPG210_CDS_7,forward,G->A,GT,False,2,Node1,GGT,G,Node18,GAT,D,nonsynonymous,94,moderately conservative,False,1
+183008,OPG210_CDS_7,forward,C->T,AC,False,3,Node1,TAC,Y,Node18,TAT,Y,synonymous,NA,NA,False,1
+183695,OPG210_CDS_7,forward,G->A,GC,False,3,Node1,CGG,R,Node18,CGA,R,synonymous,NA,NA,False,1
+183696,OPG210_CDS_7,forward,C->T,GC,False,1,Node1,CCA,P,Node18,TCA,S,nonsynonymous,74,moderately conservative,False,1
+184137,OPG210_CDS_7,forward,G->A,GC,False,1,Node1,GCT,A,Node18,ACT,T,nonsynonymous,58,moderately conservative,False,1
+187421,NA,NA,T->C,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+188096,NA,NA,C->A,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+189418,OPG005_CDS_6,forward,G->A,GA,True,1,Node1,GAT,D,Node18,AAT,N,nonsynonymous,23,conservative,False,1
+189811,NA,NA,G->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+190098,NA,NA,G->T,,False,NA,Node1,NA,NA,Node18,NA,NA,intergenic,NA,NA,False,1
+190772,hypothetical_protein_CDS_5,forward,A->C,,False,3,Node1,GAA,E,Node18,GAC,D,nonsynonymous,45,conservative,False,1
+187428,NA,NA,C->T,TC,True,NA,Node18,NA,NA,Node22,NA,NA,intergenic,NA,NA,False,1
+23564,OPG039_CDS_159,reverse,C->T,TC,True,3,Node22,TCG,S,Node23,TCA,S,synonymous,NA,NA,False,1
+72362,OPG092_CDS_108,reverse,C->T,TC,True,1,Node22,GAT,D,Node23,AAT,N,nonsynonymous,23,conservative,True,2
+72362,OPG092_CDS_108,reverse,C->T,TC,True,1,Node81,GAT,D,OP597769.1|Egypt|2022,AAT,N,nonsynonymous,23,conservative,True,2
+83326,OPG105_CDS_95,forward,C->T,TC,True,2,Node22,TCG,S,Node23,TTG,L,nonsynonymous,145,moderately radical,False,1
+87230,OPG109_CDS_91,reverse,G->A,GA,True,1,Node22,CAT,H,Node23,TAT,Y,nonsynonymous,83,moderately conservative,True,2
+87230,OPG109_CDS_91,reverse,G->A,GA,True,1,Node81,CAT,H,OP597769.1|Egypt|2022,TAT,Y,nonsynonymous,83,moderately conservative,True,2
+87297,OPG109_CDS_91,reverse,G->A,GA,True,3,Node22,TTC,F,Node23,TTT,F,synonymous,NA,NA,True,2
+87297,OPG109_CDS_91,reverse,G->A,GA,True,3,Node81,TTC,F,OP597769.1|Egypt|2022,TTT,F,synonymous,NA,NA,True,2
+91728,NA,NA,G->A,GA,True,NA,Node22,NA,NA,Node23,NA,NA,intergenic,NA,NA,True,2
+91728,NA,NA,G->A,GA,True,NA,Node81,NA,NA,OP597769.1|Egypt|2022,NA,NA,intergenic,NA,NA,True,2
+119296,OPG136_CDS_64,reverse,C->T,TC,True,1,Node22,GAT,D,Node23,AAT,N,nonsynonymous,23,conservative,True,2
+119296,OPG136_CDS_64,reverse,C->T,TC,True,1,Node81,GAT,D,OP597769.1|Egypt|2022,AAT,N,nonsynonymous,23,conservative,True,2
+121320,OPG139_CDS_61,reverse,C->T,GC,False,1,Node22,GCC,A,Node23,ACC,T,nonsynonymous,58,moderately conservative,False,1
+125249,OPG145_CDS_55,forward,G->A,GA,True,1,Node22,GAA,E,Node23,AAA,K,nonsynonymous,56,moderately conservative,True,2
+125249,OPG145_CDS_55,forward,G->A,GA,True,1,Node81,GAA,E,OP597769.1|Egypt|2022,AAA,K,nonsynonymous,56,moderately conservative,True,2
+148412,OPG174_CDS_30,reverse,G->A,GA,True,3,Node22,ATC,I,Node23,ATT,I,synonymous,NA,NA,False,1
+164832,OPG189_CDS_21,forward,C->T,TC,True,3,Node22,CTC,L,Node23,CTT,L,synonymous,NA,NA,True,2
+164832,OPG189_CDS_21,forward,C->T,TC,True,3,Node91,CTC,L,ON675438.1|USA|2022,CTT,L,synonymous,NA,NA,True,2
+168120,OPG193_CDS_17,forward,C->T,TC,True,1,Node22,CTT,L,Node23,TTT,F,nonsynonymous,22,conservative,True,3
+168120,OPG193_CDS_17,forward,T->C,,False,1,Node29,TTT,F,ON911481.2|Mexico|2022,CTT,L,nonsynonymous,22,conservative,True,3
+168120,OPG193_CDS_17,forward,C->T,TC,True,1,Node81,CTT,L,OP597769.1|Egypt|2022,TTT,F,nonsynonymous,22,conservative,True,3
+25661,NA,NA,G->A,GA,True,NA,Node23,NA,NA,Node26,NA,NA,intergenic,NA,NA,False,1
+39119,OPG057_CDS_142,reverse,C->T,TC,True,3,Node23,GAG,E,Node26,GAA,E,synonymous,NA,NA,True,2
+39119,OPG057_CDS_142,reverse,C->T,TC,True,3,Node81,GAG,E,OP597769.1|Egypt|2022,GAA,E,synonymous,NA,NA,True,2
+162243,OPG188_CDS_22,forward,G->A,GA,True,3,Node23,CTG,L,Node26,CTA,L,synonymous,NA,NA,True,2
+162243,OPG188_CDS_22,forward,G->A,GA,True,3,Node70,CTG,L,Node71,CTA,L,synonymous,NA,NA,True,2
+1262,OPG001_CDS_178,reverse,G->A,GA,True,2,Node26,TCA,S,Node27,TTA,L,nonsynonymous,145,moderately radical,False,1
+3818,OPG003_CDS_176,reverse,C->T,TC,True,1,Node26,GAT,D,Node27,AAT,N,nonsynonymous,23,conservative,False,1
+124130,OPG145_CDS_55,forward,G->A,GA,True,1,Node26,GAG,E,Node27,AAG,K,nonsynonymous,56,moderately conservative,False,1
+128698,OPG150_CDS_50,forward,C->T,TC,True,2,Node26,TCG,S,Node27,TTG,L,nonsynonymous,145,moderately radical,False,1
+81275,OPG105_CDS_95,forward,G->A,GA,True,3,Node27,AAG,K,Node28,AAA,K,synonymous,NA,NA,False,1
+2591,OPG002_CDS_177,reverse,G->A,GA,True,2,Node28,TCC,S,Node29,TTC,F,nonsynonymous,155,radical,False,1
+3111,OPG003_CDS_176,reverse,G->A,GA,True,3,Node28,ATC,I,Node29,ATT,I,synonymous,NA,NA,False,1
+3522,OPG003_CDS_176,reverse,G->A,GA,True,3,Node28,ATC,I,Node29,ATT,I,synonymous,NA,NA,False,1
+7771,OPG019_CDS_174,forward,C->T,TC,True,3,Node28,ATC,I,Node29,ATT,I,synonymous,NA,NA,False,1
+14000,OPG025_CDS_169,reverse,G->T,,False,2,Node28,GCC,A,Node29,GAC,D,nonsynonymous,126,moderately radical,False,1
+15428,NA,NA,G->A,GA,True,NA,Node28,NA,NA,Node29,NA,NA,intergenic,NA,NA,False,1
+21723,OPG037_CDS_161,reverse,G->A,GA,True,3,Node28,TTC,F,Node29,TTT,F,synonymous,NA,NA,True,2
+21723,OPG037_CDS_161,reverse,G->A,GA,True,3,Node77,TTC,F,PP853026.1|Nigeria|2022,TTT,F,synonymous,NA,NA,True,2
+30367,OPG047_CDS_152,reverse,G->A,GA,True,3,Node28,CTC,L,Node29,CTT,L,synonymous,NA,NA,False,1
+31053,OPG047_CDS_152,reverse,G->A,GA,True,1,Node28,CGC,R,Node29,TGC,C,nonsynonymous,180,radical,False,1
+34459,OPG053_CDS_146,reverse,G->A,GA,True,1,Node28,CCG,P,Node29,TCG,S,nonsynonymous,74,moderately conservative,False,1
+37202,OPG056_CDS_143,reverse,G->A,GA,True,3,Node28,TTC,F,Node29,TTT,F,synonymous,NA,NA,False,1
+38360,OPG056_CDS_143,reverse,G->A,GA,True,3,Node28,ATC,I,Node29,ATT,I,synonymous,NA,NA,False,1
+38662,OPG056_CDS_143,reverse,C->T,TC,True,1,Node28,GAG,E,Node29,AAG,K,nonsynonymous,56,moderately conservative,False,1
+39139,OPG057_CDS_142,reverse,C->T,TC,True,1,Node28,GAG,E,Node29,AAG,K,nonsynonymous,56,moderately conservative,True,2
+39139,OPG057_CDS_142,reverse,C->T,TC,True,1,Node23,GAG,E,MT903341.1|Nigeria|2018,AAG,K,nonsynonymous,56,moderately conservative,True,2
+52885,OPG071_CDS_129,reverse,G->A,GA,True,3,Node28,GTC,V,Node29,GTT,V,synonymous,NA,NA,False,1
+54117,OPG071_CDS_129,reverse,G->A,GA,True,1,Node28,CTC,L,Node29,TTC,F,nonsynonymous,22,conservative,False,1
+54635,OPG072_CDS_128,forward,G->A,GA,True,1,Node28,GAC,D,Node29,AAC,N,nonsynonymous,23,conservative,False,1
+64297,OPG083_CDS_117,reverse,G->A,GA,True,3,Node28,ATC,I,Node29,ATT,I,synonymous,NA,NA,False,1
+73066,OPG093_CDS_107,forward,C->T,TC,True,2,Node28,TCG,S,Node29,TTG,L,nonsynonymous,145,moderately radical,False,1
+73239,OPG093_CDS_107,forward,G->A,GA,True,1,Node28,GAT,D,Node29,AAT,N,nonsynonymous,23,conservative,False,1
+74205,OPG094_CDS_106,forward,G->A,GA,True,3,Node28,ATG,M,Node29,ATA,I,nonsynonymous,10,conservative,False,1
+77383,OPG098_CDS_102,forward,G->A,GA,True,1,Node28,GAG,E,Node29,AAG,K,nonsynonymous,56,moderately conservative,False,1
+82373,OPG105_CDS_95,forward,C->T,TC,True,3,Node28,TTC,F,Node29,TTT,F,synonymous,NA,NA,False,1
+82451,OPG105_CDS_95,forward,G->A,GA,True,3,Node28,ACG,T,Node29,ACA,T,synonymous,NA,NA,False,1
+84587,OPG105_CDS_95,forward,C->T,TC,True,3,Node28,TTC,F,Node29,TTT,F,synonymous,NA,NA,True,2
+84587,OPG105_CDS_95,forward,C->T,TC,True,3,Node87,TTC,F,22-328|Ghana|2022,TTT,F,synonymous,NA,NA,True,2
+95034,OPG115_CDS_85,forward,G->A,GC,False,3,Node28,GTG,V,Node29,GTA,V,synonymous,NA,NA,False,1
+124674,OPG145_CDS_55,forward,G->A,GA,True,2,Node28,CGA,R,Node29,CAA,Q,nonsynonymous,43,conservative,False,1
+150469,OPG176_CDS_28,forward,C->T,TC,True,1,Node28,CAT,H,Node29,TAT,Y,nonsynonymous,83,moderately conservative,False,1
+151461,NA,NA,A->C,,False,NA,Node28,NA,NA,Node29,NA,NA,intergenic,NA,NA,False,1
+155795,NA,NA,G->A,GG,False,NA,Node28,NA,NA,Node29,NA,NA,intergenic,NA,NA,False,1
+162331,OPG188_CDS_22,forward,C->T,TC,True,1,Node28,CTG,L,Node29,TTG,L,synonymous,NA,NA,False,1
+170262,OPG198_CDS_14,forward,G->A,GG,False,3,Node28,CGG,R,Node29,CGA,R,synonymous,NA,NA,False,1
+178133,NA,NA,G->A,GA,True,NA,Node28,NA,NA,Node29,NA,NA,intergenic,NA,NA,False,1
+181980,OPG210_CDS_7,forward,G->A,GA,True,1,Node28,GAC,D,Node29,AAC,N,nonsynonymous,23,conservative,False,1
+183519,OPG210_CDS_7,forward,C->T,TC,True,1,Node28,CCG,P,Node29,TCG,S,nonsynonymous,74,moderately conservative,False,1
+186578,OPG210_CDS_7,forward,G->A,GA,True,3,Node28,ATG,M,Node29,ATA,I,nonsynonymous,10,conservative,False,1
+186165,OPG210_CDS_7,forward,G->A,GA,True,1,Node29,GAT,D,Node44,AAT,N,nonsynonymous,23,conservative,False,1
+188391,NA,NA,C->T,AC,False,NA,Node44,NA,NA,Node45,NA,NA,intergenic,NA,NA,False,1
+188491,NA,NA,C->T,TC,True,NA,Node45,NA,NA,Node50,NA,NA,intergenic,NA,NA,True,3
+188491,NA,NA,C->T,TC,True,NA,Node29,NA,NA,ON959143.1|Finland|2022,NA,NA,intergenic,NA,NA,True,3
+188491,NA,NA,C->T,TC,True,NA,Node73,NA,NA,OP331336.1|UK|2022,NA,NA,intergenic,NA,NA,True,3
+90900,OPG111_CDS_89,forward,C->T,TC,True,3,Node45,ATC,I,OQ503782.1|USA|2022,ATT,I,synonymous,NA,NA,False,1
+190660,hypothetical_protein_CDS_5,forward,G->A,GA,True,2,Node29,AGA,R,Node55,AAA,K,nonsynonymous,26,conservative,False,1
+55133,OPG074_CDS_126,reverse,G->A,GA,True,1,Node55,CGT,R,Node56,TGT,C,nonsynonymous,180,radical,False,1
+55133,MPXVgp059_CDS_127,reverse,G->A,GA,True,3,Node55,CTC,L,Node56,CTT,L,synonymous,NA,NA,False,1
+64426,OPG083_CDS_117,reverse,C->T,TC,True,3,Node55,ACG,T,Node56,ACA,T,synonymous,NA,NA,False,1
+105923,OPG124_CDS_76,reverse,G->A,GA,True,1,Node56,CTT,L,Node57,TTT,F,nonsynonymous,22,conservative,False,1
+3987,OPG003_CDS_176,reverse,C->T,TC,True,3,Node57,GAG,E,Node58,GAA,E,synonymous,NA,NA,False,1
+166940,OPG192_CDS_18,forward,C->T,TC,True,3,Node58,GTC,V,LC756922.1|Japan|2023,GTT,V,synonymous,NA,NA,False,1
+15797,NA,NA,G->A,GG,False,NA,Node58,NA,NA,OQ581855.1|Taiwan|2023,NA,NA,intergenic,NA,NA,False,1
+41168,OPG060_CDS_139,reverse,C->T,CC,False,3,Node58,GCG,A,OQ581855.1|Taiwan|2023,GCA,A,synonymous,NA,NA,False,1
+137251,OPG153_CDS_48,reverse,A->T,,False,3,Node58,CCT,P,OQ581855.1|Taiwan|2023,CCA,P,synonymous,NA,NA,False,1
+183220,OPG210_CDS_7,forward,C->T,TC,True,2,Node29,TCC,S,OP215204.1|Germany|2022,TTC,F,nonsynonymous,155,radical,False,1
+74360,OPG094_CDS_106,forward,G->A,GC,False,2,Node29,CGC,R,Node53,CAC,H,nonsynonymous,29,conservative,False,1
+786,NA,NA,C->T,TC,True,NA,Node53,NA,NA,OP204857.1|South_Korea|2022,NA,NA,intergenic,NA,NA,False,1
+71728,OPG091_CDS_109,forward,C->T,GC,False,2,Node53,GCC,A,OP204857.1|South_Korea|2022,GTC,V,nonsynonymous,64,moderately conservative,False,1
+173429,NA,NA,G->A,GA,True,NA,Node53,NA,NA,OP204857.1|South_Korea|2022,NA,NA,intergenic,NA,NA,False,1
+22739,OPG038_CDS_160,reverse,C->T,TC,True,1,Node53,GAA,E,ON694331.1|Germany|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+89906,OPG110_CDS_90,forward,C->T,TC,True,2,Node29,TCT,S,ON959143.1|Finland|2022,TTT,F,nonsynonymous,155,radical,False,1
+94798,OPG115_CDS_85,forward,G->A,GA,True,1,Node29,GAA,E,ON959143.1|Finland|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+150831,NA,NA,C->T,TC,True,NA,Node29,NA,NA,ON959143.1|Finland|2022,NA,NA,intergenic,NA,NA,True,2
+150831,NA,NA,C->T,TC,True,NA,Node22,NA,NA,Node67,NA,NA,intergenic,NA,NA,True,2
+117119,OPG136_CDS_64,reverse,C->T,TC,True,3,Node29,GCG,A,OQ331007.1|USA|2023,GCA,A,synonymous,NA,NA,True,3
+117119,OPG136_CDS_64,reverse,C->T,TC,True,3,Node86,GCG,A,Node91,GCA,A,synonymous,NA,NA,True,3
+117119,OPG136_CDS_64,reverse,C->T,TC,True,3,Node68,GCG,A,OP535322.1|Nigeria|2017,GCA,A,synonymous,NA,NA,True,3
+118453,OPG136_CDS_64,reverse,C->T,TC,True,1,Node29,GAG,E,OQ331007.1|USA|2023,AAG,K,nonsynonymous,56,moderately conservative,False,1
+137276,OPG153_CDS_48,reverse,G->A,GA,True,2,Node29,TCT,S,OQ331007.1|USA|2023,TTT,F,nonsynonymous,155,radical,False,1
+177009,OPG205_CDS_10,forward,G->A,GA,True,1,Node29,GAA,E,OQ331007.1|USA|2023,AAA,K,nonsynonymous,56,moderately conservative,False,1
+21128,OPG037_CDS_161,reverse,C->T,TC,True,1,Node29,GAA,E,ON631963.1|Australia|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+127628,OPG149_CDS_51,forward,C->T,TC,True,1,Node29,CCG,P,ON676704.1|USA|2022,TCG,S,nonsynonymous,74,moderately conservative,False,1
+133864,NA,NA,C->T,TC,True,NA,Node29,NA,NA,ON676704.1|USA|2022,NA,NA,intergenic,NA,NA,False,1
+85055,OPG106_CDS_94,reverse,C->T,TC,True,3,Node29,TTG,L,OP820455.1|USA|2022,TTA,L,synonymous,NA,NA,False,1
+132520,NA,NA,C->T,TC,True,NA,Node29,NA,NA,OP820455.1|USA|2022,NA,NA,intergenic,NA,NA,True,2
+132520,NA,NA,C->T,TC,True,NA,Node76,NA,NA,OP612691.1|Nigeria|2020,NA,NA,intergenic,NA,NA,True,2
+142550,OPG163_CDS_38,forward,G->A,GA,True,1,Node29,GAT,D,OP820455.1|USA|2022,AAT,N,nonsynonymous,23,conservative,False,1
+165086,NA,NA,G->A,GA,True,NA,Node29,NA,NA,OP820455.1|USA|2022,NA,NA,intergenic,NA,NA,False,1
+165904,OPG190_CDS_20,forward,G->A,GA,True,3,Node29,TCG,S,OP820455.1|USA|2022,TCA,S,synonymous,NA,NA,True,2
+165904,OPG190_CDS_20,forward,G->A,GA,True,3,Node95,TCG,S,Node96,TCA,S,synonymous,NA,NA,True,2
+175093,OPG204_CDS_11,forward,G->A,GA,True,1,Node29,GAT,D,OP820455.1|USA|2022,AAT,N,nonsynonymous,23,conservative,False,1
+25644,NA,NA,C->T,TC,True,NA,Node29,NA,NA,ON911481.2|Mexico|2022,NA,NA,intergenic,NA,NA,False,1
+57088,OPG074_CDS_126,reverse,G->A,GA,True,2,Node29,TCA,S,ON911481.2|Mexico|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+120241,OPG137_CDS_63,forward,G->A,GA,True,1,Node29,GAC,D,ON911481.2|Mexico|2022,AAC,N,nonsynonymous,23,conservative,False,1
+127530,OPG149_CDS_51,forward,C->T,TC,True,2,Node29,TCA,S,ON911481.2|Mexico|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+5595,OPG015_CDS_175,reverse,G->A,GA,True,1,Node29,CAG,Q,Node61,TAG,*,nonsense,NA,NA,False,1
+78034,OPG100_CDS_100,forward,G->A,GA,True,3,Node29,ACG,T,Node61,ACA,T,synonymous,NA,NA,False,1
+78034,OPG099_CDS_101,forward,G->A,GA,True,1,Node29,GAT,D,Node61,AAT,N,nonsynonymous,23,conservative,False,1
+80111,OPG103_CDS_97,forward,C->T,CC,False,3,Node29,ACC,T,Node61,ACT,T,synonymous,NA,NA,False,1
+139150,OPG156_CDS_45,reverse,T->C,,False,2,Node61,CAA,Q,ON622718.1|Spain|2022,CGA,R,nonsynonymous,43,conservative,False,1
+122649,OPG143_CDS_57,reverse,C->T,TC,True,1,Node61,GAT,D,ON720849.1|Spain|2022,AAT,N,nonsynonymous,23,conservative,False,1
+50982,OPG070_CDS_130,forward,G->A,GA,True,3,Node29,TTG,L,OR035670.1|Belgium|2022,TTA,L,synonymous,NA,NA,False,1
+71644,OPG091_CDS_109,forward,C->T,TC,True,2,Node29,TCG,S,OR035670.1|Belgium|2022,TTG,L,nonsynonymous,145,moderately radical,False,1
+127445,OPG149_CDS_51,forward,C->T,GC,False,1,Node29,CCT,P,OR035670.1|Belgium|2022,TCT,S,nonsynonymous,74,moderately conservative,False,1
+148268,NA,NA,C->T,TC,True,NA,Node29,NA,NA,Node59,NA,NA,intergenic,NA,NA,False,1
+9963,OPG021_CDS_173,forward,G->A,GA,True,2,Node59,AGA,R,OP838893.1|Italy|2022,AAA,K,nonsynonymous,26,conservative,False,1
+76334,OPG097_CDS_103,reverse,C->T,TC,True,2,Node29,AGA,R,ON880413.1|Brazil|2022,AAA,K,nonsynonymous,26,conservative,False,1
+98233,OPG117_CDS_83,forward,G->A,GA,True,1,Node29,GAT,D,ON880413.1|Brazil|2022,AAT,N,nonsynonymous,23,conservative,False,1
+98455,OPG118_CDS_82,forward,G->A,GG,False,1,Node29,GGA,G,ON880413.1|Brazil|2022,AGA,R,nonsynonymous,125,moderately radical,False,1
+111084,OPG130_CDS_70,reverse,G->A,GA,True,3,Node29,GTC,V,ON880413.1|Brazil|2022,GTT,V,synonymous,NA,NA,False,1
+182950,OPG210_CDS_7,forward,C->T,TC,True,2,Node29,TCG,S,ON880413.1|Brazil|2022,TTG,L,nonsynonymous,145,moderately radical,True,2
+182950,OPG210_CDS_7,forward,C->T,TC,True,2,Node86,TCG,S,Node92,TTG,L,nonsynonymous,145,moderately radical,True,2
+10118,OPG021_CDS_173,forward,G->A,GA,True,1,Node29,GAA,E,ON751962.1|Brazil|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+15004,OPG025_CDS_169,reverse,C->T,TC,True,3,Node29,TTG,L,ON751962.1|Brazil|2022,TTA,L,synonymous,NA,NA,False,1
+169928,OPG197_CDS_15,forward,G->A,GA,True,1,Node29,GAT,D,ON751962.1|Brazil|2022,AAT,N,nonsynonymous,23,conservative,False,1
+88640,OPG109_CDS_91,reverse,G->A,GA,True,1,Node28,CGT,R,OP612686.1|Nigeria|2019,TGT,C,nonsynonymous,180,radical,False,1
+756,NA,NA,C->T,TC,True,NA,Node27,NA,NA,OP612687.1|Nigeria|2019,NA,NA,intergenic,NA,NA,False,1
+2039,OPG002_CDS_177,reverse,G->A,GA,True,2,Node27,TCA,S,OP612687.1|Nigeria|2019,TTA,L,nonsynonymous,145,moderately radical,False,1
+168365,OPG195_CDS_16,forward,G->A,GA,True,1,Node27,GAA,E,OP612687.1|Nigeria|2019,AAA,K,nonsynonymous,56,moderately conservative,True,2
+168365,OPG195_CDS_16,forward,G->A,GA,True,1,Node73,GAA,E,Node97,AAA,K,nonsynonymous,56,moderately conservative,True,2
+188605,NA,NA,C->A,,False,NA,Node27,NA,NA,OP612687.1|Nigeria|2019,NA,NA,intergenic,NA,NA,False,1
+188606,NA,NA,A->C,,False,NA,Node27,NA,NA,OP612687.1|Nigeria|2019,NA,NA,intergenic,NA,NA,False,1
+188607,NA,NA,G->A,GC,False,NA,Node27,NA,NA,OP612687.1|Nigeria|2019,NA,NA,intergenic,NA,NA,False,1
+39767,OPG057_CDS_142,reverse,C->T,TC,True,3,Node23,ACG,T,MT903342.1|Singapore|2018,ACA,T,synonymous,NA,NA,False,1
+43927,OPG064_CDS_135,reverse,C->T,TC,True,1,Node23,GAA,E,MT903342.1|Singapore|2018,AAA,K,nonsynonymous,56,moderately conservative,False,1
+151929,OPG178_CDS_27,forward,G->A,GA,True,1,Node23,GAG,E,MT903342.1|Singapore|2018,AAG,K,nonsynonymous,56,moderately conservative,False,1
+170573,OPG198_CDS_14,forward,C->T,TC,True,2,Node23,TCA,S,MT903342.1|Singapore|2018,TTA,L,nonsynonymous,145,moderately radical,False,1
+28838,OPG045_CDS_154,reverse,G->A,GC,False,2,Node23,GCG,A,MT903343.1|UK|2018,GTG,V,nonsynonymous,64,moderately conservative,False,1
+92349,OPG113_CDS_87,forward,G->A,GA,True,1,Node23,GAA,E,MT903343.1|UK|2018,AAA,K,nonsynonymous,56,moderately conservative,False,1
+188494,NA,NA,G->A,GG,False,NA,Node23,NA,NA,MT903343.1|UK|2018,NA,NA,intergenic,NA,NA,False,1
+8772,NA,NA,C->T,TC,True,NA,Node23,NA,NA,MN648051.1|Israel|2018,NA,NA,intergenic,NA,NA,False,1
+91363,OPG112_CDS_88,forward,C->T,CC,False,3,Node23,ACC,T,MN648051.1|Israel|2018,ACT,T,synonymous,NA,NA,False,1
+147593,OPG172_CDS_32,forward,A->T,,False,2,Node23,GAG,E,MN648051.1|Israel|2018,GTG,V,nonsynonymous,121,moderately radical,False,1
+177273,OPG205_CDS_10,forward,G->A,GA,True,1,Node23,GAT,D,MN648051.1|Israel|2018,AAT,N,nonsynonymous,23,conservative,False,1
+11727,OPG023_CDS_171,reverse,C->T,TC,True,1,Node23,GAT,D,MT903341.1|Nigeria|2018,AAT,N,nonsynonymous,23,conservative,False,1
+23353,OPG039_CDS_159,reverse,C->T,TC,True,1,Node22,GAT,D,Node67,AAT,N,nonsynonymous,23,conservative,False,1
+51809,OPG071_CDS_129,reverse,C->T,TC,True,2,Node22,CGA,R,Node67,CAA,Q,nonsynonymous,43,conservative,False,1
+56968,OPG074_CDS_126,reverse,G->A,GA,True,2,Node22,TCA,S,Node67,TTA,L,nonsynonymous,145,moderately radical,False,1
+61844,OPG080_CDS_120,reverse,G->A,GA,True,1,Node22,CTG,L,Node67,TTG,L,synonymous,NA,NA,True,2
+61844,OPG080_CDS_120,reverse,G->A,GA,True,1,Node73,CTG,L,Node97,TTG,L,synonymous,NA,NA,True,2
+69678,OPG088_CDS_112,reverse,G->A,GA,True,3,Node22,TTC,F,Node67,TTT,F,synonymous,NA,NA,False,1
+84008,OPG105_CDS_95,forward,C->T,TC,True,3,Node22,TTC,F,Node67,TTT,F,synonymous,NA,NA,False,1
+92053,OPG113_CDS_87,forward,C->T,TC,True,2,Node22,TCA,S,Node67,TTA,L,nonsynonymous,145,moderately radical,False,1
+96841,OPG117_CDS_83,forward,G->A,GA,True,1,Node22,GAT,D,Node67,AAT,N,nonsynonymous,23,conservative,False,1
+100971,OPG120_CDS_80,reverse,C->T,TC,True,1,Node22,GAG,E,Node67,AAG,K,nonsynonymous,56,moderately conservative,False,1
+123000,OPG143_CDS_57,reverse,C->T,TC,True,1,Node22,GAG,E,Node67,AAG,K,nonsynonymous,56,moderately conservative,False,1
+125492,OPG146_CDS_54,reverse,C->T,TC,True,1,Node22,GAT,D,Node67,AAT,N,nonsynonymous,23,conservative,False,1
+128174,OPG150_CDS_50,forward,C->T,TC,True,3,Node22,GTC,V,Node67,GTT,V,synonymous,NA,NA,False,1
+134078,NA,NA,C->T,TC,True,NA,Node22,NA,NA,Node67,NA,NA,intergenic,NA,NA,False,1
+146052,NA,NA,C->T,TC,True,NA,Node22,NA,NA,Node67,NA,NA,intergenic,NA,NA,False,1
+151050,NA,NA,C->T,TC,True,NA,Node22,NA,NA,Node67,NA,NA,intergenic,NA,NA,False,1
+151305,NA,NA,C->T,TC,True,NA,Node22,NA,NA,Node67,NA,NA,intergenic,NA,NA,False,1
+188889,NA,NA,G->A,GA,True,NA,Node22,NA,NA,Node67,NA,NA,intergenic,NA,NA,False,1
+2930,OPG003_CDS_176,reverse,C->T,TC,True,1,Node67,GAA,E,OP413718.1|UK|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+18493,OPG031_CDS_165,reverse,C->T,TC,True,3,Node67,GTG,V,OP413718.1|UK|2022,GTA,V,synonymous,NA,NA,False,1
+18908,NA,NA,C->T,TC,True,NA,Node67,NA,NA,OP413718.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+21898,OPG037_CDS_161,reverse,G->A,GA,True,2,Node67,TCA,S,OP413718.1|UK|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+23626,OPG039_CDS_159,reverse,G->A,GA,True,1,Node67,CAC,H,OP413718.1|UK|2022,TAC,Y,nonsynonymous,83,moderately conservative,False,1
+25254,OPG040_CDS_158,reverse,C->T,TC,True,3,Node67,TTG,L,OP413718.1|UK|2022,TTA,L,synonymous,NA,NA,False,1
+29199,OPG045_CDS_154,reverse,C->T,TC,True,1,Node67,GAG,E,OP413718.1|UK|2022,AAG,K,nonsynonymous,56,moderately conservative,False,1
+36901,OPG055_CDS_144,reverse,G->A,GA,True,3,Node67,ATC,I,OP413718.1|UK|2022,ATT,I,synonymous,NA,NA,False,1
+44085,OPG064_CDS_135,reverse,G->A,GA,True,2,Node67,TCA,S,OP413718.1|UK|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+63034,OPG082_CDS_118,reverse,G->A,GA,True,2,Node67,TCG,S,OP413718.1|UK|2022,TTG,L,nonsynonymous,145,moderately radical,True,2
+63034,OPG082_CDS_118,reverse,G->A,GA,True,2,Node83,TCG,S,Node84,TTG,L,nonsynonymous,145,moderately radical,True,2
+75099,OPG095_CDS_105,forward,G->A,GA,True,3,Node67,ACG,T,OP413718.1|UK|2022,ACA,T,synonymous,NA,NA,False,1
+75144,OPG095_CDS_105,forward,G->A,GA,True,3,Node67,CAG,Q,OP413718.1|UK|2022,CAA,Q,synonymous,NA,NA,False,1
+76509,OPG097_CDS_103,reverse,G->A,GA,True,1,Node67,CAT,H,OP413718.1|UK|2022,TAT,Y,nonsynonymous,83,moderately conservative,False,1
+87659,OPG109_CDS_91,reverse,C->T,TC,True,1,Node67,GAA,E,OP413718.1|UK|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+115332,OPG133_CDS_67,reverse,G->A,GA,True,2,Node67,TCT,S,OP413718.1|UK|2022,TTT,F,nonsynonymous,155,radical,False,1
+115572,OPG133_CDS_67,reverse,C->T,TC,True,2,Node67,CGA,R,OP413718.1|UK|2022,CAA,Q,nonsynonymous,43,conservative,False,1
+122627,OPG143_CDS_57,reverse,G->A,GT,False,2,Node67,ACG,T,OP413718.1|UK|2022,ATG,M,nonsynonymous,81,moderately conservative,False,1
+128771,OPG150_CDS_50,forward,C->T,TC,True,3,Node67,CTC,L,OP413718.1|UK|2022,CTT,L,synonymous,NA,NA,False,1
+140739,OPG160_CDS_41,reverse,C->T,TC,True,3,Node67,CTG,L,OP413718.1|UK|2022,CTA,L,synonymous,NA,NA,False,1
+151519,OPG178_CDS_27,forward,G->T,,False,2,Node67,GGG,G,OP413718.1|UK|2022,GTG,V,nonsynonymous,109,moderately radical,False,1
+151875,OPG178_CDS_27,forward,G->A,GA,True,1,Node67,GAC,D,OP413718.1|UK|2022,AAC,N,nonsynonymous,23,conservative,False,1
+160008,NA,NA,C->T,TC,True,NA,Node67,NA,NA,OP413718.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+160312,NA,NA,C->T,TC,True,NA,Node67,NA,NA,OP413718.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+165130,OPG190_CDS_20,forward,G->A,GA,True,3,Node67,ACG,T,OP413718.1|UK|2022,ACA,T,synonymous,NA,NA,False,1
+168862,OPG195_CDS_16,forward,G->A,GA,True,3,Node67,AAG,K,OP413718.1|UK|2022,AAA,K,synonymous,NA,NA,False,1
+174491,NA,NA,G->A,GA,True,NA,Node67,NA,NA,OP413718.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+176289,OPG205_CDS_10,forward,G->A,GC,False,1,Node67,GCA,A,OP413718.1|UK|2022,ACA,T,nonsynonymous,58,moderately conservative,False,1
+176366,OPG205_CDS_10,forward,G->A,GG,False,3,Node67,ATG,M,OP413718.1|UK|2022,ATA,I,nonsynonymous,10,conservative,False,1
+177703,OPG205_CDS_10,forward,C->T,TC,True,2,Node67,TCA,S,OP413718.1|UK|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+56351,OPG074_CDS_126,reverse,C->T,TC,True,1,Node67,GAG,E,OP612677.1|Nigeria|2019,AAG,K,nonsynonymous,56,moderately conservative,False,1
+74032,OPG094_CDS_106,forward,G->A,GC,False,1,Node67,GCA,A,OP612677.1|Nigeria|2019,ACA,T,nonsynonymous,58,moderately conservative,False,1
+190782,hypothetical_protein_CDS_5,forward,G->A,GA,True,1,Node67,GAA,E,OP612677.1|Nigeria|2019,AAA,K,nonsynonymous,56,moderately conservative,False,1
+13298,NA,NA,C->T,AC,False,NA,Node18,NA,NA,Node73,NA,NA,intergenic,NA,NA,False,1
+18792,OPG031_CDS_165,reverse,C->T,TC,True,1,Node18,GAT,D,Node73,AAT,N,nonsynonymous,23,conservative,False,1
+30636,OPG047_CDS_152,reverse,C->T,TC,True,1,Node18,GAT,D,Node73,AAT,N,nonsynonymous,23,conservative,False,1
+34472,OPG053_CDS_146,reverse,C->T,TC,True,3,Node18,GTG,V,Node73,GTA,V,synonymous,NA,NA,True,2
+34472,OPG053_CDS_146,reverse,T->C,,False,3,Node81,GTA,V,OP597769.1|Egypt|2022,GTG,V,synonymous,NA,NA,True,2
+34578,OPG053_CDS_146,reverse,C->T,TC,True,2,Node18,GGA,G,Node73,GAA,E,nonsynonymous,98,moderately conservative,False,1
+80099,OPG103_CDS_97,forward,G->A,GA,True,3,Node18,CTG,L,Node73,CTA,L,synonymous,NA,NA,False,1
+93387,OPG113_CDS_87,forward,G->A,GA,True,1,Node18,GAA,E,Node73,AAA,K,nonsynonymous,56,moderately conservative,False,1
+114659,OPG133_CDS_67,reverse,G->A,GG,False,3,Node18,GCC,A,Node73,GCT,A,synonymous,NA,NA,False,1
+124031,OPG145_CDS_55,forward,G->A,GA,True,1,Node18,GAC,D,Node73,AAC,N,nonsynonymous,23,conservative,False,1
+149265,OPG174_CDS_30,reverse,G->A,GA,True,2,Node18,TCG,S,Node73,TTG,L,nonsynonymous,145,moderately radical,False,1
+149872,OPG176_CDS_28,forward,C->T,TC,True,1,Node18,CAG,Q,Node73,TAG,*,nonsense,NA,NA,False,1
+154015,OPG180_CDS_26,forward,G->A,GA,True,1,Node18,GAT,D,Node73,AAT,N,nonsynonymous,23,conservative,False,1
+161953,OPG188_CDS_22,forward,C->T,TC,True,1,Node18,CAC,H,Node73,TAC,Y,nonsynonymous,83,moderately conservative,False,1
+165782,OPG190_CDS_20,forward,C->T,TC,True,1,Node18,CCA,P,Node73,TCA,S,nonsynonymous,74,moderately conservative,False,1
+168205,NA,NA,G->A,GC,False,NA,Node18,NA,NA,Node73,NA,NA,intergenic,NA,NA,False,1
+177720,OPG205_CDS_10,forward,C->T,TC,True,1,Node18,CGT,R,Node73,TGT,C,nonsynonymous,180,radical,False,1
+25072,OPG040_CDS_158,reverse,C->T,TC,True,2,Node73,CGA,R,Node76,CAA,Q,nonsynonymous,43,conservative,False,1
+36898,OPG055_CDS_144,reverse,G->A,GA,True,3,Node76,TTC,F,Node77,TTT,F,synonymous,NA,NA,False,1
+42183,OPG062_CDS_137,forward,G->A,GA,True,3,Node76,ATG,M,Node77,ATA,I,nonsynonymous,10,conservative,False,1
+42903,OPG063_CDS_136,reverse,C->T,TC,True,3,Node76,ATG,M,Node77,ATA,I,nonsynonymous,10,conservative,False,1
+73616,OPG093_CDS_107,forward,C->T,TC,True,3,Node76,CTC,L,Node77,CTT,L,synonymous,NA,NA,False,1
+79406,OPG102_CDS_98,forward,G->A,GA,True,1,Node76,GAT,D,Node77,AAT,N,nonsynonymous,23,conservative,False,1
+105746,OPG124_CDS_76,reverse,G->A,GA,True,1,Node76,CTA,L,Node77,TTA,L,synonymous,NA,NA,False,1
+140492,OPG160_CDS_41,reverse,A->C,,False,1,Node76,TCA,S,Node77,GCA,A,nonsynonymous,99,moderately conservative,False,1
+142498,OPG163_CDS_38,forward,C->T,TC,True,3,Node76,ATC,I,Node77,ATT,I,synonymous,NA,NA,False,1
+157737,NA,NA,C->T,TC,True,NA,Node76,NA,NA,Node77,NA,NA,intergenic,NA,NA,False,1
+161152,OPG187_CDS_23,forward,C->T,AC,False,3,Node76,AAC,N,Node77,AAT,N,synonymous,NA,NA,False,1
+179537,OPG208_CDS_9,forward,C->T,TC,True,2,Node76,TCA,S,Node77,TTA,L,nonsynonymous,145,moderately radical,True,2
+179537,OPG208_CDS_9,forward,T->C,,False,2,Node81,TTA,L,OP597769.1|Egypt|2022,TCA,S,nonsynonymous,145,moderately radical,True,2
+50346,OPG069_CDS_131,forward,G->A,GA,True,1,Node77,GAC,D,Node78,AAC,N,nonsynonymous,23,conservative,False,1
+54268,OPG071_CDS_129,reverse,C->T,TC,True,3,Node77,GCG,A,Node78,GCA,A,synonymous,NA,NA,False,1
+30868,OPG047_CDS_152,reverse,G->A,GA,True,3,Node78,ATC,I,Node80,ATT,I,synonymous,NA,NA,False,1
+43103,OPG063_CDS_136,reverse,G->A,GA,True,1,Node78,CCA,P,Node80,TCA,S,nonsynonymous,74,moderately conservative,False,1
+102599,OPG122_CDS_78,forward,G->A,GA,True,1,Node78,GAT,D,Node80,AAT,N,nonsynonymous,23,conservative,False,1
+184924,OPG210_CDS_7,forward,C->T,TC,True,2,Node78,TCA,S,Node80,TTA,L,nonsynonymous,145,moderately radical,False,1
+164210,OPG189_CDS_21,forward,C->T,TC,True,2,Node80,TCG,S,OP331335.1|UK|2022,TTG,L,nonsynonymous,145,moderately radical,False,1
+124897,OPG145_CDS_55,forward,C->T,TC,True,3,Node78,TTC,F,22-039|Ghana|2022,TTT,F,synonymous,NA,NA,False,1
+168887,OPG195_CDS_16,forward,G->A,GA,True,1,Node78,GAG,E,22-039|Ghana|2022,AAG,K,nonsynonymous,56,moderately conservative,False,1
+95936,OPG116_CDS_84,forward,T->A,,False,3,Node78,GAT,D,Node81,GAA,E,nonsynonymous,45,conservative,False,1
+112544,OPG132_CDS_68,reverse,C->T,TC,True,1,Node81,GAT,D,ON674051.1|USA|2022,AAT,N,nonsynonymous,23,conservative,False,1
+163540,OPG189_CDS_21,forward,G->A,GA,True,1,Node81,GAA,E,ON674051.1|USA|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+13514,OPG025_CDS_169,reverse,A->G,,False,2,Node81,ATA,I,OP597769.1|Egypt|2022,ACA,T,nonsynonymous,89,moderately conservative,False,1
+13516,OPG025_CDS_169,reverse,T->A,,False,3,Node81,CAA,Q,OP597769.1|Egypt|2022,TAT,Y,nonsynonymous,99,moderately conservative,False,1
+13518,OPG025_CDS_169,reverse,G->A,GA,True,1,Node81,CAA,Q,OP597769.1|Egypt|2022,TAT,Y,nonsynonymous,99,moderately conservative,False,1
+29768,OPG047_CDS_152,reverse,A->C,,False,2,Node81,ATA,I,OP597769.1|Egypt|2022,GGA,G,nonsynonymous,135,moderately radical,False,1
+29769,OPG047_CDS_152,reverse,T->C,,False,1,Node81,ATA,I,OP597769.1|Egypt|2022,GGA,G,nonsynonymous,135,moderately radical,False,1
+44057,OPG064_CDS_135,reverse,C->T,CC,False,3,Node81,CTG,L,OP597769.1|Egypt|2022,CTA,L,synonymous,NA,NA,False,1
+55575,OPG074_CDS_126,reverse,G->T,,False,3,Node81,AAC,N,OP597769.1|Egypt|2022,AAA,K,nonsynonymous,94,moderately conservative,False,1
+55579,OPG074_CDS_126,reverse,A->G,,False,2,Node81,TTT,F,OP597769.1|Egypt|2022,TCT,S,nonsynonymous,155,radical,False,1
+55582,OPG074_CDS_126,reverse,A->G,,False,2,Node81,CTG,L,OP597769.1|Egypt|2022,CCG,P,nonsynonymous,98,moderately conservative,False,1
+55585,OPG074_CDS_126,reverse,A->G,,False,2,Node81,ATT,I,OP597769.1|Egypt|2022,ACT,T,nonsynonymous,89,moderately conservative,False,1
+64031,OPG083_CDS_117,reverse,G->A,GA,True,2,Node81,TCT,S,OP597769.1|Egypt|2022,TTT,F,nonsynonymous,155,radical,False,1
+77076,OPG098_CDS_102,forward,G->A,GA,True,3,Node81,TTG,L,OP597769.1|Egypt|2022,TTA,L,synonymous,NA,NA,False,1
+140233,OPG160_CDS_41,reverse,C->T,AC,False,2,Node81,AGT,S,OP597769.1|Egypt|2022,AAT,N,nonsynonymous,46,conservative,False,1
+168194,NA,NA,C->T,AC,False,NA,Node81,NA,NA,OP597769.1|Egypt|2022,NA,NA,intergenic,NA,NA,False,1
+179947,OPG208_CDS_9,forward,A->T,,False,1,Node81,AAA,K,OP597769.1|Egypt|2022,TAA,*,nonsense,NA,NA,False,1
+179950,OPG208_CDS_9,forward,A->T,,False,1,Node81,AAT,N,OP597769.1|Egypt|2022,TAT,Y,nonsynonymous,143,moderately radical,False,1
+2846,OPG003_CDS_176,reverse,G->T,,False,1,Node77,CCA,P,PP853026.1|Nigeria|2022,ACA,T,nonsynonymous,38,conservative,False,1
+77496,OPG098_CDS_102,forward,C->T,TC,True,3,Node77,TTC,F,PP853026.1|Nigeria|2022,TTT,F,synonymous,NA,NA,False,1
+89914,OPG110_CDS_90,forward,C->T,TC,True,1,Node77,CCG,P,PP853026.1|Nigeria|2022,TCG,S,nonsynonymous,74,moderately conservative,False,1
+120216,OPG137_CDS_63,forward,G->A,GA,True,3,Node77,TTG,L,PP853026.1|Nigeria|2022,TTA,L,synonymous,NA,NA,False,1
+124101,OPG145_CDS_55,forward,C->T,TC,True,2,Node77,TCT,S,PP853026.1|Nigeria|2022,TTT,F,nonsynonymous,155,radical,False,1
+151017,NA,NA,G->A,GA,True,NA,Node77,NA,NA,PP853026.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+157498,NA,NA,G->A,GA,True,NA,Node77,NA,NA,PP853026.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+90329,OPG111_CDS_89,forward,C->T,TC,True,2,Node76,TCA,S,OP612691.1|Nigeria|2020,TTA,L,nonsynonymous,145,moderately radical,False,1
+29887,OPG047_CDS_152,reverse,C->T,TC,True,3,Node73,CCG,P,Node83,CCA,P,synonymous,NA,NA,False,1
+188544,NA,NA,G->A,GA,True,NA,Node73,NA,NA,Node83,NA,NA,intergenic,NA,NA,False,1
+5089,OPG015_CDS_175,reverse,G->A,GA,True,3,Node83,ATC,I,Node84,ATT,I,synonymous,NA,NA,False,1
+7844,OPG019_CDS_174,forward,C->T,TC,True,1,Node83,CAA,Q,Node84,TAA,*,nonsense,NA,NA,False,1
+9477,NA,NA,C->T,TC,True,NA,Node83,NA,NA,Node84,NA,NA,intergenic,NA,NA,False,1
+10795,OPG022_CDS_172,reverse,C->T,TC,True,1,Node83,GAA,E,Node84,AAA,K,nonsynonymous,56,moderately conservative,False,1
+11034,OPG023_CDS_171,reverse,C->T,TC,True,1,Node83,GAT,D,Node84,AAT,N,nonsynonymous,23,conservative,False,1
+12426,OPG023_CDS_171,reverse,C->T,TC,True,1,Node83,GAA,E,Node84,AAA,K,nonsynonymous,56,moderately conservative,False,1
+34432,OPG053_CDS_146,reverse,C->T,TC,True,1,Node83,GAG,E,Node84,AAG,K,nonsynonymous,56,moderately conservative,True,2
+34432,OPG053_CDS_146,reverse,C->T,TC,True,1,Node99,GAG,E,PP852950.1|Nigeria|2023,AAG,K,nonsynonymous,56,moderately conservative,True,2
+41437,OPG061_CDS_138,reverse,C->T,TC,True,1,Node83,GAC,D,Node84,AAC,N,nonsynonymous,23,conservative,False,1
+55823,OPG074_CDS_126,reverse,G->A,GA,True,1,Node83,CTG,L,Node84,TTG,L,synonymous,NA,NA,False,1
+91998,OPG113_CDS_87,forward,G->A,GT,False,1,Node83,GTA,V,Node84,ATA,I,nonsynonymous,29,conservative,False,1
+108891,OPG128_CDS_72,reverse,C->T,TC,True,3,Node83,CTG,L,Node84,CTA,L,synonymous,NA,NA,False,1
+134107,NA,NA,G->A,GC,False,NA,Node83,NA,NA,Node84,NA,NA,intergenic,NA,NA,False,1
+147845,OPG172_CDS_32,forward,C->T,TC,True,2,Node83,TCT,S,Node84,TTT,F,nonsynonymous,155,radical,False,1
+149359,OPG174_CDS_30,reverse,G->A,GA,True,1,Node83,CTA,L,Node84,TTA,L,synonymous,NA,NA,False,1
+189358,OPG005_CDS_6,forward,C->T,TC,True,1,Node83,CTC,L,Node84,TTC,F,nonsynonymous,22,conservative,False,1
+65370,OPG084_CDS_116,forward,G->A,GA,True,1,Node84,GAC,D,PP853053.1|Nigeria|2022,AAC,N,nonsynonymous,23,conservative,False,1
+87741,OPG109_CDS_91,reverse,C->T,TC,True,3,Node84,CAG,Q,PP853053.1|Nigeria|2022,CAA,Q,synonymous,NA,NA,False,1
+126310,OPG148_CDS_52,forward,G->A,GA,True,1,Node84,GAG,E,PP853053.1|Nigeria|2022,AAG,K,nonsynonymous,56,moderately conservative,False,1
+187145,NA,NA,G->A,GA,True,NA,Node84,NA,NA,PP853053.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+165875,OPG190_CDS_20,forward,G->A,GA,True,1,Node84,GAC,D,PP853025.1|Nigeria|2022,AAC,N,nonsynonymous,23,conservative,False,1
+168930,NA,NA,G->A,GA,True,NA,Node84,NA,NA,PP853025.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+171907,OPG199_CDS_13,forward,G->A,GT,False,2,Node84,TGT,C,PP853025.1|Nigeria|2022,TAT,Y,nonsynonymous,194,radical,False,1
+13648,OPG025_CDS_169,reverse,C->T,AC,False,3,Node83,ATG,M,Node85,ATA,I,nonsynonymous,10,conservative,False,1
+144446,NA,NA,G->A,GA,True,NA,Node83,NA,NA,Node85,NA,NA,intergenic,NA,NA,False,1
+168532,OPG195_CDS_16,forward,C->T,TC,True,3,Node83,TTC,F,Node85,TTT,F,synonymous,NA,NA,False,1
+179853,OPG208_CDS_9,forward,C->T,TC,True,3,Node83,TTC,F,Node85,TTT,F,synonymous,NA,NA,False,1
+12117,OPG023_CDS_171,reverse,C->T,TC,True,1,Node85,GAT,D,PP853037.1|Nigeria|2022,AAT,N,nonsynonymous,23,conservative,False,1
+15626,NA,NA,G->T,,False,NA,Node85,NA,NA,PP853037.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+23127,OPG038_CDS_160,reverse,G->A,GA,True,3,Node85,ATC,I,PP853037.1|Nigeria|2022,ATT,I,synonymous,NA,NA,False,1
+33595,OPG051_CDS_148,reverse,C->T,TC,True,1,Node85,GAA,E,PP853037.1|Nigeria|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+65895,OPG084_CDS_116,forward,G->A,GA,True,1,Node85,GAT,D,PP853037.1|Nigeria|2022,AAT,N,nonsynonymous,23,conservative,False,1
+72591,OPG092_CDS_108,reverse,T->C,,False,3,Node85,CTA,L,PP853037.1|Nigeria|2022,CTG,L,synonymous,NA,NA,False,1
+84233,OPG105_CDS_95,forward,C->T,TC,True,3,Node85,GTC,V,PP853037.1|Nigeria|2022,GTT,V,synonymous,NA,NA,False,1
+90945,OPG111_CDS_89,forward,C->T,TC,True,3,Node85,GTC,V,PP853037.1|Nigeria|2022,GTT,V,synonymous,NA,NA,False,1
+95653,OPG116_CDS_84,forward,G->A,GA,True,2,Node85,AGA,R,PP853037.1|Nigeria|2022,AAA,K,nonsynonymous,26,conservative,False,1
+113740,OPG133_CDS_67,reverse,C->T,TC,True,1,Node85,GAT,D,PP853037.1|Nigeria|2022,AAT,N,nonsynonymous,23,conservative,False,1
+116774,OPG135_CDS_65,reverse,G->A,GA,True,3,Node85,TTC,F,PP853037.1|Nigeria|2022,TTT,F,synonymous,NA,NA,False,1
+134456,NA,NA,A->C,,False,NA,Node85,NA,NA,PP853037.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+134628,NA,NA,C->T,TC,True,NA,Node85,NA,NA,PP853037.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+152410,NA,NA,G->A,GA,True,NA,Node85,NA,NA,PP853037.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+165800,OPG190_CDS_20,forward,G->A,GA,True,1,Node85,GAC,D,PP853037.1|Nigeria|2022,AAC,N,nonsynonymous,23,conservative,False,1
+181209,NA,NA,C->T,TC,True,NA,Node85,NA,NA,PP853037.1|Nigeria|2022,NA,NA,intergenic,NA,NA,False,1
+11332,OPG023_CDS_171,reverse,G->A,GA,True,3,Node85,ATC,I,Node86,ATT,I,synonymous,NA,NA,False,1
+12099,OPG023_CDS_171,reverse,G->A,GA,True,1,Node85,CGA,R,Node86,TGA,*,nonsense,NA,NA,False,1
+15105,OPG025_CDS_169,reverse,C->T,TC,True,1,Node85,GAT,D,Node86,AAT,N,nonsynonymous,23,conservative,False,1
+16227,OPG027_CDS_168,reverse,C->T,TC,True,1,Node85,GAT,D,Node86,AAT,N,nonsynonymous,23,conservative,False,1
+64216,OPG083_CDS_117,reverse,G->A,GG,False,3,Node85,GCC,A,Node86,GCT,A,synonymous,NA,NA,False,1
+75614,OPG096_CDS_104,forward,G->A,GA,True,1,Node85,GAT,D,Node86,AAT,N,nonsynonymous,23,conservative,False,1
+128534,OPG150_CDS_50,forward,C->T,TC,True,3,Node85,ATC,I,Node86,ATT,I,synonymous,NA,NA,False,1
+130454,OPG151_CDS_49,forward,G->A,GA,True,1,Node85,GAG,E,Node86,AAG,K,nonsynonymous,56,moderately conservative,False,1
+134442,NA,NA,C->T,TC,True,NA,Node85,NA,NA,Node86,NA,NA,intergenic,NA,NA,False,1
+142918,OPG164_CDS_37,forward,C->T,TC,True,3,Node85,ATC,I,Node86,ATT,I,synonymous,NA,NA,False,1
+156429,NA,NA,C->T,TC,True,NA,Node85,NA,NA,Node86,NA,NA,intergenic,NA,NA,False,1
+174610,OPG204_CDS_11,forward,G->A,GA,True,1,Node85,GAA,E,Node86,AAA,K,nonsynonymous,56,moderately conservative,False,1
+179628,OPG208_CDS_9,forward,A->G,,False,3,Node85,ACA,T,Node86,ACG,T,synonymous,NA,NA,False,1
+156600,NA,NA,G->A,GC,False,NA,Node86,NA,NA,Node87,NA,NA,intergenic,NA,NA,False,1
+165270,OPG190_CDS_20,forward,C->T,TC,True,2,Node86,TCA,S,Node87,TTA,L,nonsynonymous,145,moderately radical,False,1
+187670,NA,NA,C->T,TC,True,NA,Node86,NA,NA,Node87,NA,NA,intergenic,NA,NA,False,1
+51179,OPG070_CDS_130,forward,C->T,CC,False,2,Node87,CCA,P,22-467|Ghana|2022,CTA,L,nonsynonymous,98,moderately conservative,False,1
+70330,OPG089_CDS_111,forward,C->T,TC,True,3,Node87,TTC,F,22-467|Ghana|2022,TTT,F,synonymous,NA,NA,False,1
+134076,NA,NA,G->A,GT,False,NA,Node87,NA,NA,22-244|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+72123,OPG092_CDS_108,reverse,G->A,GA,True,3,Node87,ATC,I,22-328|Ghana|2022,ATT,I,synonymous,NA,NA,False,1
+115830,OPG134_CDS_66,forward,G->A,GA,True,3,Node87,ATG,M,22-328|Ghana|2022,ATA,I,nonsynonymous,10,conservative,False,1
+119914,OPG137_CDS_63,forward,G->A,GA,True,1,Node87,GAA,E,22-328|Ghana|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+166171,OPG191_CDS_19,forward,C->T,TC,True,2,Node87,TCA,S,22-328|Ghana|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+182968,OPG210_CDS_7,forward,C->T,TC,True,2,Node87,TCA,S,22-328|Ghana|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+24794,OPG040_CDS_158,reverse,G->A,GA,True,1,Node87,CTG,L,22-496A|Ghana|2022,TTG,L,synonymous,NA,NA,False,1
+57595,OPG076_CDS_124,reverse,G->A,GA,True,3,Node87,GTC,V,22-496A|Ghana|2022,GTT,V,synonymous,NA,NA,False,1
+83873,OPG105_CDS_95,forward,C->T,TC,True,3,Node87,CTC,L,22-496A|Ghana|2022,CTT,L,synonymous,NA,NA,False,1
+125142,OPG145_CDS_55,forward,C->T,TC,True,2,Node87,TCG,S,22-496A|Ghana|2022,TTG,L,nonsynonymous,145,moderately radical,False,1
+132934,NA,NA,C->T,TC,True,NA,Node87,NA,NA,22-496A|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+134112,NA,NA,C->T,TC,True,NA,Node87,NA,NA,22-496A|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+162138,OPG188_CDS_22,forward,G->A,GA,True,3,Node87,ATG,M,22-496A|Ghana|2022,ATA,I,nonsynonymous,10,conservative,False,1
+22971,OPG038_CDS_160,reverse,G->A,GA,True,3,Node91,ATC,I,22-030|Ghana|2022,ATT,I,synonymous,NA,NA,False,1
+63811,OPG083_CDS_117,reverse,G->A,GA,True,3,Node91,TTC,F,22-030|Ghana|2022,TTT,F,synonymous,NA,NA,True,2
+63811,OPG083_CDS_117,reverse,G->A,GA,True,3,Node100,TTC,F,22-177|Ghana|2022,TTT,F,synonymous,NA,NA,True,2
+71566,OPG091_CDS_109,forward,G->A,GA,True,2,Node91,AGA,R,22-030|Ghana|2022,AAA,K,nonsynonymous,26,conservative,False,1
+42101,OPG062_CDS_137,forward,C->T,TC,True,2,Node91,TCA,S,ON675438.1|USA|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+56958,OPG074_CDS_126,reverse,G->A,GA,True,3,Node86,CTC,L,Node92,CTT,L,synonymous,NA,NA,False,1
+148570,OPG174_CDS_30,reverse,G->T,,False,1,Node86,CCA,P,Node92,ACA,T,nonsynonymous,38,conservative,False,1
+67730,OPG085_CDS_115,reverse,G->A,GA,True,1,Node92,CGT,R,22-046|Ghana|2022,TGT,C,nonsynonymous,180,radical,False,1
+172205,OPG200_CDS_12,forward,G->A,GA,True,2,Node92,AGA,R,22-046|Ghana|2022,AAA,K,nonsynonymous,26,conservative,False,1
+23379,OPG039_CDS_159,reverse,G->A,GA,True,2,Node92,TCT,S,Node95,TTT,F,nonsynonymous,155,radical,False,1
+132324,OPG151_CDS_49,forward,G->A,GA,True,2,Node92,AGA,R,Node95,AAA,K,nonsynonymous,26,conservative,False,1
+144181,OPG165_CDS_36,forward,G->A,GA,True,3,Node92,TTG,L,Node95,TTA,L,synonymous,NA,NA,False,1
+152445,NA,NA,C->T,TC,True,NA,Node92,NA,NA,Node95,NA,NA,intergenic,NA,NA,False,1
+161342,OPG187_CDS_23,forward,G->A,GC,False,1,Node92,GCA,A,Node95,ACA,T,nonsynonymous,58,moderately conservative,False,1
+112857,OPG132_CDS_68,reverse,C->T,TC,True,3,Node96,CTG,L,22-240|Ghana|2022,CTA,L,synonymous,NA,NA,False,1
+72602,OPG092_CDS_108,reverse,G->A,GA,True,1,Node95,CTA,L,22-401|Ghana|2022,TTA,L,synonymous,NA,NA,False,1
+121773,OPG141_CDS_59,reverse,G->A,GA,True,2,Node95,TCG,S,22-401|Ghana|2022,TTG,L,nonsynonymous,145,moderately radical,False,1
+20554,OPG036_CDS_162,reverse,C->T,TC,True,1,Node92,GAA,E,22-173|Ghana|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+53960,OPG071_CDS_129,reverse,C->T,TC,True,2,Node92,AGA,R,22-173|Ghana|2022,AAA,K,nonsynonymous,26,conservative,False,1
+121247,OPG139_CDS_61,reverse,G->A,GG,False,2,Node92,CCT,P,22-173|Ghana|2022,CTT,L,nonsynonymous,98,moderately conservative,False,1
+101150,OPG120_CDS_80,reverse,C->T,TC,True,2,Node92,AGA,R,22-345|Ghana|2022,AAA,K,nonsynonymous,26,conservative,False,1
+105801,OPG124_CDS_76,reverse,C->T,GC,False,3,Node92,ATG,M,22-345|Ghana|2022,ATA,I,nonsynonymous,10,conservative,False,1
+178456,NA,NA,G->A,GA,True,NA,Node92,NA,NA,22-345|Ghana|2022,NA,NA,intergenic,NA,NA,False,1
+2752,NA,NA,G->A,GA,True,NA,Node73,NA,NA,Node97,NA,NA,intergenic,NA,NA,False,1
+39173,OPG057_CDS_142,reverse,G->A,GA,True,3,Node73,GTC,V,Node97,GTT,V,synonymous,NA,NA,False,1
+57284,OPG075_CDS_125,reverse,C->T,TC,True,2,Node73,AGA,R,Node97,AAA,K,nonsynonymous,26,conservative,False,1
+74226,OPG094_CDS_106,forward,C->T,TC,True,3,Node73,ATC,I,Node97,ATT,I,synonymous,NA,NA,False,1
+118739,OPG136_CDS_64,reverse,G->A,GA,True,3,Node73,TTC,F,Node97,TTT,F,synonymous,NA,NA,False,1
+146223,OPG170_CDS_34,reverse,C->T,TC,True,1,Node73,GAT,D,Node97,AAT,N,nonsynonymous,23,conservative,False,1
+148427,OPG174_CDS_30,reverse,G->A,GA,True,3,Node73,TTC,F,Node97,TTT,F,synonymous,NA,NA,False,1
+150800,NA,NA,G->A,GA,True,NA,Node73,NA,NA,Node97,NA,NA,intergenic,NA,NA,False,1
+170317,OPG198_CDS_14,forward,G->A,GA,True,1,Node73,GAT,D,Node97,AAT,N,nonsynonymous,23,conservative,False,1
+172527,OPG200_CDS_12,forward,G->A,GA,True,3,Node73,CTG,L,Node97,CTA,L,synonymous,NA,NA,False,1
+175759,OPG205_CDS_10,forward,C->T,GC,False,2,Node73,GCA,A,Node97,GTA,V,nonsynonymous,64,moderately conservative,False,1
+189417,OPG005_CDS_6,forward,G->A,GA,True,3,Node73,TCG,S,Node97,TCA,S,synonymous,NA,NA,False,1
+189474,OPG005_CDS_6,forward,C->T,TC,True,3,Node73,ATC,I,Node97,ATT,I,synonymous,NA,NA,False,1
+25659,NA,NA,C->T,TC,True,NA,Node97,NA,NA,Node98,NA,NA,intergenic,NA,NA,False,1
+30669,OPG047_CDS_152,reverse,C->T,TC,True,1,Node97,GAA,E,Node98,AAA,K,nonsynonymous,56,moderately conservative,False,1
+101132,OPG120_CDS_80,reverse,G->A,GA,True,2,Node97,TCT,S,Node98,TTT,F,nonsynonymous,155,radical,False,1
+136132,NA,NA,G->A,GG,False,NA,Node97,NA,NA,Node98,NA,NA,intergenic,NA,NA,False,1
+162535,OPG188_CDS_22,forward,C->A,,False,1,Node97,CCC,P,Node98,ACC,T,nonsynonymous,38,conservative,False,1
+181216,NA,NA,C->T,TC,True,NA,Node97,NA,NA,Node98,NA,NA,intergenic,NA,NA,False,1
+22271,OPG037_CDS_161,reverse,G->A,GA,True,1,Node98,CTT,L,Node99,TTT,F,nonsynonymous,22,conservative,False,1
+48045,NA,NA,G->A,GA,True,NA,Node98,NA,NA,Node99,NA,NA,intergenic,NA,NA,False,1
+80708,OPG104_CDS_96,reverse,C->T,TC,True,3,Node98,CTG,L,Node99,CTA,L,synonymous,NA,NA,False,1
+98533,OPG118_CDS_82,forward,C->T,TC,True,1,Node98,CTA,L,Node99,TTA,L,synonymous,NA,NA,False,1
+108955,OPG128_CDS_72,reverse,G->T,,False,2,Node98,ACC,T,Node99,AAC,N,nonsynonymous,65,moderately conservative,False,1
+119109,OPG136_CDS_64,reverse,G->A,GC,False,2,Node98,GCA,A,Node99,GTA,V,nonsynonymous,64,moderately conservative,False,1
+156358,NA,NA,G->A,GA,True,NA,Node98,NA,NA,Node99,NA,NA,intergenic,NA,NA,False,1
+176495,OPG205_CDS_10,forward,C->T,TC,True,3,Node98,ATC,I,Node99,ATT,I,synonymous,NA,NA,False,1
+189777,NA,NA,G->A,GA,True,NA,Node98,NA,NA,Node99,NA,NA,intergenic,NA,NA,False,1
+73767,NA,NA,C->T,TC,True,NA,Node99,NA,NA,PP852950.1|Nigeria|2023,NA,NA,intergenic,NA,NA,False,1
+158283,NA,NA,C->T,TC,True,NA,Node99,NA,NA,PP852950.1|Nigeria|2023,NA,NA,intergenic,NA,NA,False,1
+172445,OPG200_CDS_12,forward,G->A,GA,True,2,Node99,AGA,R,PP852950.1|Nigeria|2023,AAA,K,nonsynonymous,26,conservative,False,1
+12207,OPG023_CDS_171,reverse,G->A,GA,True,1,Node98,CAA,Q,Node100,TAA,*,nonsense,NA,NA,False,1
+74420,OPG094_CDS_106,forward,C->T,GC,False,2,Node98,GCG,A,Node100,GTG,V,nonsynonymous,64,moderately conservative,False,1
+122712,OPG143_CDS_57,reverse,C->T,TC,True,1,Node98,GAT,D,Node100,AAT,N,nonsynonymous,23,conservative,False,1
+11428,OPG023_CDS_171,reverse,G->A,GA,True,3,Node100,ATC,I,22-007|Ghana|2022,ATT,I,synonymous,NA,NA,False,1
+76732,OPG097_CDS_103,reverse,C->T,TC,True,3,Node100,CCG,P,22-177|Ghana|2022,CCA,P,synonymous,NA,NA,False,1
+126881,OPG148_CDS_52,forward,G->A,GA,True,2,Node100,CGA,R,22-195|Ghana|2022,CAA,Q,nonsynonymous,43,conservative,False,1
+100640,OPG119_CDS_81,forward,C->T,TC,True,3,Node97,GTC,V,ON676707.1|USA|2021,GTT,V,synonymous,NA,NA,False,1
+142636,OPG163_CDS_38,forward,G->A,GA,True,3,Node97,CTG,L,ON676707.1|USA|2021,CTA,L,synonymous,NA,NA,False,1
+186104,OPG210_CDS_7,forward,C->T,TC,True,3,Node97,TTC,F,ON676707.1|USA|2021,TTT,F,synonymous,NA,NA,False,1
+11948,OPG023_CDS_171,reverse,G->A,GA,True,2,Node73,TCT,S,OP331336.1|UK|2022,TTT,F,nonsynonymous,155,radical,False,1
+13686,OPG025_CDS_169,reverse,C->T,TC,True,1,Node73,GAA,E,OP331336.1|UK|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+14790,OPG025_CDS_169,reverse,C->T,TC,True,1,Node73,GAT,D,OP331336.1|UK|2022,AAT,N,nonsynonymous,23,conservative,False,1
+21861,OPG037_CDS_161,reverse,C->T,TC,True,3,Node73,ATG,M,OP331336.1|UK|2022,ATA,I,nonsynonymous,10,conservative,False,1
+21991,OPG037_CDS_161,reverse,G->A,GA,True,2,Node73,TCA,S,OP331336.1|UK|2022,TTA,L,nonsynonymous,145,moderately radical,False,1
+23118,OPG038_CDS_160,reverse,G->A,GA,True,3,Node73,CTC,L,OP331336.1|UK|2022,CTT,L,synonymous,NA,NA,False,1
+27826,OPG043_CDS_156,reverse,C->T,TC,True,1,Node73,GAA,E,OP331336.1|UK|2022,AAA,K,nonsynonymous,56,moderately conservative,False,1
+38923,OPG056_CDS_143,reverse,G->A,GA,True,1,Node73,CGT,R,OP331336.1|UK|2022,TGT,C,nonsynonymous,180,radical,False,1
+39515,OPG057_CDS_142,reverse,G->A,GA,True,3,Node73,CTC,L,OP331336.1|UK|2022,CTT,L,synonymous,NA,NA,False,1
+56546,OPG074_CDS_126,reverse,G->A,GA,True,1,Node73,CTG,L,OP331336.1|UK|2022,TTG,L,synonymous,NA,NA,False,1
+57786,OPG077_CDS_123,reverse,G->A,GA,True,3,Node73,GTC,V,OP331336.1|UK|2022,GTT,V,synonymous,NA,NA,False,1
+59282,OPG079_CDS_121,reverse,G->A,GA,True,1,Node73,CTA,L,OP331336.1|UK|2022,TTA,L,synonymous,NA,NA,False,1
+65743,OPG084_CDS_116,forward,C->A,,False,2,Node73,CCT,P,OP331336.1|UK|2022,CAT,H,nonsynonymous,77,moderately conservative,False,1
+85356,OPG106_CDS_94,reverse,G->A,GA,True,2,Node73,TCT,S,OP331336.1|UK|2022,TTT,F,nonsynonymous,155,radical,False,1
+93312,OPG113_CDS_87,forward,G->A,GT,False,1,Node73,GTC,V,OP331336.1|UK|2022,ATC,I,nonsynonymous,29,conservative,False,1
+103019,OPG122_CDS_78,forward,C->T,TC,True,1,Node73,CAT,H,OP331336.1|UK|2022,TAT,Y,nonsynonymous,83,moderately conservative,False,1
+112470,OPG132_CDS_68,reverse,C->T,TC,True,3,Node73,ATG,M,OP331336.1|UK|2022,ATA,I,nonsynonymous,10,conservative,False,1
+124129,OPG145_CDS_55,forward,C->T,TC,True,3,Node73,TTC,F,OP331336.1|UK|2022,TTT,F,synonymous,NA,NA,False,1
+127906,OPG150_CDS_50,forward,C->T,TC,True,2,Node73,TCA,S,OP331336.1|UK|2022,TTA,L,nonsynonymous,145,moderately radical,True,2
+127906,OPG150_CDS_50,forward,C->T,TC,True,2,Node68,TCA,S,MK783030.1|Nigeria|2017,TTA,L,nonsynonymous,145,moderately radical,True,2
+135303,NA,NA,G->A,GA,True,NA,Node73,NA,NA,OP331336.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+145902,NA,NA,G->A,GT,False,NA,Node73,NA,NA,OP331336.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+149365,OPG174_CDS_30,reverse,C->T,CC,False,1,Node73,GGA,G,OP331336.1|UK|2022,AGA,R,nonsynonymous,125,moderately radical,False,1
+151112,NA,NA,G->A,GA,True,NA,Node73,NA,NA,OP331336.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+155611,NA,NA,G->A,GA,True,NA,Node73,NA,NA,OP331336.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+158424,NA,NA,G->A,GA,True,NA,Node73,NA,NA,OP331336.1|UK|2022,NA,NA,intergenic,NA,NA,False,1
+162640,OPG188_CDS_22,forward,G->A,GG,False,1,Node73,GGT,G,OP331336.1|UK|2022,AGT,S,nonsynonymous,56,moderately conservative,False,1
+174721,OPG204_CDS_11,forward,G->A,GC,False,1,Node73,GCT,A,OP331336.1|UK|2022,ACT,T,nonsynonymous,58,moderately conservative,False,1
+186984,OPG210_CDS_7,forward,G->A,GA,True,1,Node73,GAT,D,OP331336.1|UK|2022,AAT,N,nonsynonymous,23,conservative,False,1
+144876,OPG167_CDS_35,reverse,G->A,GA,True,1,Node73,CCG,P,OP612689.1|Nigeria|2019,TCG,S,nonsynonymous,74,moderately conservative,False,1
+37209,OPG056_CDS_143,reverse,G->A,GA,True,2,Node18,TCT,S,Node68,TTT,F,nonsynonymous,155,radical,False,1
+48180,NA,NA,G->A,GA,True,NA,Node18,NA,NA,Node68,NA,NA,intergenic,NA,NA,False,1
+2398,OPG002_CDS_177,reverse,G->A,GA,True,3,Node68,CTC,L,OP535322.1|Nigeria|2017,CTT,L,synonymous,NA,NA,False,1
+17797,OPG030_CDS_166,reverse,G->A,GA,True,1,Node68,CTT,L,OP535322.1|Nigeria|2017,TTT,F,nonsynonymous,22,conservative,False,1
+47585,NA,NA,C->T,TC,True,NA,Node68,NA,NA,OP535322.1|Nigeria|2017,NA,NA,intergenic,NA,NA,False,1
+135038,NA,NA,C->T,TC,True,NA,Node68,NA,NA,OP535322.1|Nigeria|2017,NA,NA,intergenic,NA,NA,False,1
+161496,OPG187_CDS_23,forward,G->A,GA,True,2,Node68,CGA,R,OP535322.1|Nigeria|2017,CAA,Q,nonsynonymous,43,conservative,False,1
+165497,OPG190_CDS_20,forward,C->T,TC,True,1,Node68,CCT,P,OP535322.1|Nigeria|2017,TCT,S,nonsynonymous,74,moderately conservative,False,1
+8385,NA,NA,C->T,TC,True,NA,Node68,NA,NA,Node70,NA,NA,intergenic,NA,NA,False,1
+43118,OPG063_CDS_136,reverse,G->A,GA,True,1,Node68,CTA,L,Node70,TTA,L,synonymous,NA,NA,False,1
+113841,OPG133_CDS_67,reverse,C->T,TC,True,2,Node68,GGA,G,Node70,GAA,E,nonsynonymous,98,moderately conservative,False,1
+146607,OPG170_CDS_34,reverse,C->T,TC,True,1,Node68,GAA,E,Node70,AAA,K,nonsynonymous,56,moderately conservative,False,1
+29889,OPG047_CDS_152,reverse,G->A,GA,True,1,Node70,CCG,P,Node71,TCG,S,nonsynonymous,74,moderately conservative,False,1
+40251,OPG058_CDS_141,reverse,C->T,TC,True,1,Node70,GAT,D,Node71,AAT,N,nonsynonymous,23,conservative,False,1
+63801,OPG083_CDS_117,reverse,C->T,TC,True,1,Node70,GAA,E,Node71,AAA,K,nonsynonymous,56,moderately conservative,False,1
+92830,OPG113_CDS_87,forward,C->T,TC,True,2,Node71,TCT,S,OP612684.1|Nigeria|2019,TTT,F,nonsynonymous,155,radical,False,1
+180656,OPG209_CDS_8,forward,G->A,GA,True,1,Node71,GAT,D,OP612684.1|Nigeria|2019,AAT,N,nonsynonymous,23,conservative,False,1
+186423,OPG210_CDS_7,forward,G->A,GA,True,1,Node71,GAA,E,OP612684.1|Nigeria|2019,AAA,K,nonsynonymous,56,moderately conservative,False,1
+63264,OPG082_CDS_118,reverse,C->T,TC,True,3,Node71,TTG,L,OP612680.1|Nigeria|2019,TTA,L,synonymous,NA,NA,False,1
+104748,OPG123_CDS_77,reverse,T->C,,False,2,Node71,GAT,D,OP612680.1|Nigeria|2019,GGT,G,nonsynonymous,94,moderately conservative,False,1
+3477,OPG003_CDS_176,reverse,G->A,GA,True,3,Node68,TTC,F,MK783030.1|Nigeria|2017,TTT,F,synonymous,NA,NA,False,1
+98046,OPG117_CDS_83,forward,C->T,TC,True,3,Node68,TTC,F,MK783030.1|Nigeria|2017,TTT,F,synonymous,NA,NA,False,1
+120237,OPG137_CDS_63,forward,C->T,TC,True,3,Node68,GTC,V,MK783030.1|Nigeria|2017,GTT,V,synonymous,NA,NA,False,1
+149775,OPG175_CDS_29,forward,G->A,GA,True,1,Node68,GAA,E,MK783030.1|Nigeria|2017,AAA,K,nonsynonymous,56,moderately conservative,False,1
+172965,NA,NA,C->T,TC,True,NA,Node68,NA,NA,MK783030.1|Nigeria|2017,NA,NA,intergenic,NA,NA,False,1
+174056,NA,NA,G->A,GA,True,NA,Node68,NA,NA,MK783030.1|Nigeria|2017,NA,NA,intergenic,NA,NA,False,1
+18769,OPG031_CDS_165,reverse,G->A,GA,True,3,Node18,GTC,V,Node103,GTT,V,synonymous,NA,NA,False,1
+81977,OPG105_CDS_95,forward,G->A,GA,True,3,Node18,CAG,Q,Node103,CAA,Q,synonymous,NA,NA,False,1
+100261,OPG118_CDS_82,forward,G->A,GA,True,1,Node18,GAA,E,Node103,AAA,K,nonsynonymous,56,moderately conservative,False,1
+154408,NA,NA,C->T,TC,True,NA,Node18,NA,NA,Node103,NA,NA,intergenic,NA,NA,False,1
+28175,OPG044_CDS_155,forward,C->T,TC,True,1,Node103,CTA,L,NC|063383.1|Nigeria|2018,TTA,L,synonymous,NA,NA,False,1
+6635,NA,NA,T->G,,False,NA,Node103,NA,NA,OP535333.1|Nigeria|2018,NA,NA,intergenic,NA,NA,False,1
+6638,NA,NA,T->G,,False,NA,Node103,NA,NA,OP535333.1|Nigeria|2018,NA,NA,intergenic,NA,NA,False,1
+6660,NA,NA,T->G,,False,NA,Node103,NA,NA,OP535333.1|Nigeria|2018,NA,NA,intergenic,NA,NA,False,1
+5157,OPG015_CDS_175,reverse,C->T,TC,True,1,Node18,GAT,D,Node104,AAT,N,nonsynonymous,23,conservative,False,1
+7764,OPG019_CDS_174,forward,G->A,GA,True,2,Node18,AGA,R,Node104,AAA,K,nonsynonymous,26,conservative,False,1
+9782,OPG021_CDS_173,forward,G->A,GC,False,1,Node18,GCC,A,Node104,ACC,T,nonsynonymous,58,moderately conservative,False,1
+133161,NA,NA,C->T,TC,True,NA,Node18,NA,NA,Node104,NA,NA,intergenic,NA,NA,False,1
+13797,OPG025_CDS_169,reverse,C->T,TC,True,1,Node104,GAC,D,MK783029.1|Nigeria|2017,AAC,N,nonsynonymous,23,conservative,False,1
+20153,OPG035_CDS_163,reverse,A->G,,False,3,Node104,GGT,G,MK783029.1|Nigeria|2017,GGC,G,synonymous,NA,NA,False,1
+109736,OPG129_CDS_71,reverse,G->A,GA,True,3,Node104,TTC,F,MK783031.1|Nigeria|2017,TTT,F,synonymous,NA,NA,False,1
+51559,OPG071_CDS_129,reverse,G->A,GA,True,3,Node18,CTC,L,MT903339.1|Nigeria|2018,CTT,L,synonymous,NA,NA,False,1
+60923,OPG080_CDS_120,reverse,C->T,TC,True,1,Node18,GAG,E,MT903339.1|Nigeria|2018,AAG,K,nonsynonymous,56,moderately conservative,False,1
+138584,OPG156_CDS_45,reverse,G->A,GA,True,1,Node18,CGG,R,MT903339.1|Nigeria|2018,TGG,W,nonsynonymous,101,moderately radical,False,1
+179884,OPG208_CDS_9,forward,G->A,GA,True,1,Node18,GAG,E,MT903339.1|Nigeria|2018,AAG,K,nonsynonymous,56,moderately conservative,False,1
